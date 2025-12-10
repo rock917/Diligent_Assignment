@@ -1,0 +1,18 @@
+# prompt 1
+We want to create fake e-commerce data that looks realistic enough for database and SQL practice — but not use any real customer data.
+So, we’ll generate synthetic data (fake data that resembles real-world patterns).
+
+We'll make around 5 CSV files, each representing a different table in a typical e-commerce system.
+
+# prompt 2
+We already have 5 synthetic CSV files:
+customers.csv
+products.csv
+orders.csv
+order_items.csv
+payments.csv
+Now we’ll ingest (import) these files into an SQLite database called ecom.db so we can later run SQL queries on them.
+
+#prompt 3
+“Write a Python script that connects to the SQLite database ecom.db, runs an SQL query joining customers, orders, and payments tables, and prints 
+the total number of orders and total amount spent by each customer.”

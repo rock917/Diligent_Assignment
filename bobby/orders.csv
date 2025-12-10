@@ -1,0 +1,1001 @@
+order_id,customer_id,order_date,status,shipping_address,shipping_city,shipping_state,shipping_zip,total_amount
+1,483,2025-10-25,Delivered,79720 Adrienne Squares,Brandiview,WY,05441,1233.15
+2,354,2025-01-11,Delivered,64154 Rodriguez Views Suite 313,West Christine,IL,55483,2538.35
+3,396,2025-06-11,Shipped,67500 Cisneros Drive,West Stephanieland,AZ,46882,378.74
+4,62,2025-02-15,Shipped,9819 Hoffman Rapids Apt. 704,Davidhaven,NC,73613,1394.58
+5,220,2025-11-06,Delivered,2258 Butler Islands Suite 787,Kennethburgh,DC,65081,1669.03
+6,332,2025-09-09,Delivered,548 Quinn Manors Suite 594,New David,RI,16053,1299.32
+7,216,2025-01-10,Delivered,0200 Eric Inlet Suite 393,East Davidville,AS,43227,930.86
+8,492,2025-11-11,Shipped,30557 Aimee Roads Suite 821,Kevinhaven,NC,81360,822.32
+9,363,2025-05-06,Delivered,972 Mccarty Spurs Apt. 677,Dawnberg,WA,01335,2036.06
+10,376,2025-01-28,Shipped,254 Stephanie Cliff Apt. 281,East Mary,DC,26739,151.22
+11,414,2025-08-01,Shipped,049 Brian Streets,North Aprilchester,KS,64665,895.6
+12,423,2025-02-09,Delivered,875 Amanda Trafficway,Powellland,TN,60273,2098.66
+13,437,2025-02-15,Shipped,7754 Hart Grove,Taylorberg,VI,75371,827.38
+14,452,2025-12-09,Delivered,2918 Reyes Shoals,Lake Curtis,AR,72508,819.75
+15,238,2025-11-11,Shipped,717 Bryan Spur,East Scott,VT,95961,919.99
+16,15,2025-03-03,Shipped,52229 Joyce Extension,Lake Ronaldmouth,TN,77201,807.48
+17,109,2025-01-07,Shipped,88232 Valdez Squares Apt. 983,Angelaport,KY,55272,1890.49
+18,451,2025-01-25,Shipped,773 Lindsey Highway Apt. 095,Michelleshire,AS,65790,2102.92
+19,6,2025-08-03,Shipped,79970 Ashley Mill,East Brianbury,TN,78606,1533.13
+20,369,2025-06-08,Delivered,137 Taylor Point Apt. 220,East Laurafurt,VA,95673,1020.05
+21,389,2025-11-09,Shipped,320 Joseph Plaza,Obrienmouth,NC,66490,431.13
+22,252,2025-06-23,Shipped,3585 Joel Place Suite 003,West Tiffanybury,MS,85095,679.7
+23,114,2025-01-09,Shipped,71523 Andrew Drive Apt. 950,West Jamesview,SD,96828,727.35
+24,298,2025-06-25,Delivered,93096 Miller Spur,Davisville,FL,52643,674.36
+25,272,2024-12-27,Delivered,213 David Spur,Ortizberg,AR,15596,1942.13
+26,382,2025-08-01,Delivered,16612 Bobby River,South Derekmouth,TN,97832,189.06
+27,360,2025-12-03,Delivered,39304 Ryan Junction Apt. 802,Curtisport,WI,68788,1428.19
+28,129,2025-01-18,Delivered,2114 Kristine Springs,Garrettberg,MA,01646,2184.72
+29,99,2025-07-20,Delivered,29462 Mary Ramp Apt. 556,Port Judytown,AS,28631,40.71
+30,275,2025-09-12,Delivered,97013 Wilson Harbor Apt. 658,Amberfurt,ME,17584,1768.7
+31,379,2025-03-01,Delivered,1202 Conrad Manors,West Christinafort,IN,73577,2870.5
+32,302,2025-06-19,Delivered,29907 Ryan Wall Apt. 632,Port Juan,SD,14530,573.46
+33,52,2025-04-20,Delivered,2034 John Crossing Apt. 956,Elliottmouth,MN,55969,1432.32
+34,185,2025-11-20,Delivered,157 Watson Manors Apt. 347,East Maryview,NH,57410,3554.29
+35,363,2024-12-10,Delivered,80181 Jared Valley,Spencerville,NV,52751,1427.05
+36,24,2025-03-26,Delivered,2680 Zachary Valleys,Sethberg,OR,04496,1258.44
+37,358,2025-11-11,Shipped,0713 Ricky Cove,North Steven,IN,44035,803.67
+38,53,2025-01-08,Delivered,5847 Gonzalez Locks,North Jane,AK,02785,285.06
+39,241,2025-07-16,Delivered,58857 Warner Ranch Suite 703,New Adamborough,TN,26763,508.27
+40,95,2025-08-01,Delivered,74666 Christian Prairie Apt. 832,Smithton,KY,53320,3362.7
+41,442,2025-05-19,Delivered,45901 Brent Radial Suite 714,North Kaitlynview,OR,31427,1779.23
+42,34,2025-07-08,Delivered,949 Leslie Shores,West Kristenton,KS,80528,2285.85
+43,296,2025-08-02,Delivered,497 Logan Pines,Fowlerland,ID,61219,2637.55
+44,416,2025-07-26,Shipped,166 Garcia Light Apt. 237,Stephaniefort,NJ,75345,2218.63
+45,128,2025-03-22,Delivered,25623 Aguilar Crescent,Romanland,VT,35118,1247.39
+46,214,2025-02-11,Delivered,203 Williams Mount Apt. 116,Port Erictown,SC,87066,207.45
+47,317,2025-08-09,Shipped,81359 Lester Creek Apt. 708,Sarahhaven,AK,09755,4016.49
+48,466,2025-07-09,Delivered,4822 Shannon Knolls Apt. 978,Samueltown,ND,23120,1910.09
+49,302,2025-01-01,Delivered,8067 Kennedy Course,Port Jacob,OK,11658,1410.89
+50,318,2025-04-04,Shipped,12879 Moody Rapid Suite 882,Barberfurt,OR,88355,1299.93
+51,486,2025-12-05,Shipped,040 Perez Crest Suite 196,West Ronaldfort,MH,72832,2576.95
+52,42,2025-08-15,Delivered,74883 Sharp Knoll,Port Sarahshire,AS,86829,487.05
+53,283,2025-08-26,Delivered,40964 Reyes Gateway Suite 960,Shawnport,FL,08989,1109.7
+54,210,2025-05-30,Shipped,85162 Tina Knolls,Port Crystal,KY,71623,532.36
+55,17,2025-07-09,Delivered,89348 Patel Parkway,New Blake,NE,18518,2634.61
+56,145,2025-03-19,Delivered,2879 Roger Road Apt. 141,Port Daniel,MH,99681,417.69
+57,120,2025-09-16,Shipped,9236 Jesse Mountains,Klinemouth,HI,33088,3075.73
+58,339,2024-12-26,Delivered,8816 Chan Squares Apt. 254,Tylerview,DE,81278,1968.47
+59,279,2025-01-15,Processing,0344 Kristin Mall Suite 177,Port Zacharyview,PA,71049,859.57
+60,424,2025-07-19,Delivered,806 Whitaker Drive,West Christopherview,MT,68261,33.76
+61,85,2025-11-03,Delivered,59266 Gardner Ridges,Lake Theresa,MO,91789,1818.4
+62,423,2025-08-06,Shipped,8694 Mark Radial Suite 501,New Dennisburgh,AR,90606,830.32
+63,240,2025-10-08,Shipped,3605 Chad Common Suite 039,Clarkmouth,IA,54344,2053.4
+64,257,2025-09-10,Delivered,89455 Nicholas Avenue,North Brookeshire,ME,18311,329.4
+65,42,2025-04-04,Delivered,04664 Reynolds Loop Apt. 564,North Lori,ME,41755,670.51
+66,222,2025-05-22,Shipped,7580 Patton Inlet Suite 338,South Davidstad,KS,53511,930.58
+67,118,2025-11-14,Delivered,26540 Randy Isle Suite 300,Martinburgh,DE,23426,454.0
+68,11,2025-02-06,Delivered,76774 Taylor Island Apt. 601,East Juanville,CO,49326,603.56
+69,391,2025-11-27,Delivered,860 Kathleen Plain Apt. 179,Olsonfort,OH,17258,975.69
+70,334,2025-02-23,Shipped,99570 Griffin Stravenue,Sparksburgh,SC,56205,1393.47
+71,300,2025-01-07,Shipped,120 Allison Forks,Petersonchester,MI,91784,1054.11
+72,47,2025-07-25,Delivered,078 Beltran Roads Apt. 548,West David,TN,73572,968.26
+73,171,2025-09-04,Shipped,545 Williams Springs,Scottstad,LA,85987,1301.48
+74,169,2025-06-08,Shipped,231 Donald Fields Apt. 748,Flemingland,NV,57961,1865.33
+75,484,2025-11-23,Shipped,34272 James Village Suite 217,Jenniferside,AR,09318,477.31
+76,233,2025-08-01,Delivered,04530 Lynch Turnpike Apt. 588,West Claudia,IN,43888,637.4
+77,166,2025-11-03,Shipped,0018 Jennifer Locks,Wellsport,NY,09277,2763.29
+78,264,2025-11-01,Shipped,2444 Green Meadow Apt. 838,Haleyfort,PA,81705,2627.65
+79,212,2025-03-03,Delivered,810 Allen Ranch Apt. 287,Morganfurt,AS,82040,1202.85
+80,186,2025-07-17,Shipped,882 Kevin Island Suite 927,West Maryberg,KS,49894,1795.34
+81,390,2025-03-09,Delivered,98642 Anderson Ford,New Shannon,NC,31363,119.79
+82,282,2025-03-11,Shipped,18706 Sherry Port,East Zachary,NY,06972,3544.3
+83,358,2025-09-11,Delivered,21010 Jerry Alley,North Heatherfurt,NH,57382,1194.51
+84,499,2025-05-05,Shipped,08987 Martinez Plaza,Port Kennethstad,MS,12682,716.52
+85,160,2025-03-31,Delivered,384 Santos Row,New Williamton,WY,63754,2225.58
+86,209,2025-03-26,Delivered,235 Ortiz Radial Suite 100,Lake Kendra,AK,60406,908.85
+87,431,2025-10-29,Delivered,05459 Kim Club Suite 006,Comptonfurt,NE,35716,320.72
+88,61,2025-01-13,Delivered,65411 Valerie Alley,Weaverville,MO,80994,2574.18
+89,367,2025-10-22,Delivered,708 Michael Points Apt. 668,West Angela,MS,70532,1193.26
+90,140,2025-09-16,Delivered,69708 Amber Point Apt. 787,West Anthonyshire,NE,24173,2553.65
+91,125,2025-04-28,Delivered,97609 David Corners Apt. 657,South Alexis,CO,73022,406.12
+92,197,2025-11-05,Shipped,521 Ward Pass,Teresaville,NH,64288,2575.64
+93,451,2025-06-04,Shipped,127 Cruz Ferry Apt. 188,West Christopher,VT,78124,2580.82
+94,405,2025-05-14,Delivered,4222 Cook Radial,South Brianview,VA,96368,1483.23
+95,404,2025-04-30,Delivered,18545 Bass Cape Suite 682,Port Beckyberg,PR,48626,118.75
+96,2,2025-06-19,Shipped,900 Crystal Forges,Robertton,NH,23003,727.3
+97,297,2025-03-01,Shipped,7282 Clay Turnpike,Adamland,NM,68680,3424.38
+98,248,2025-08-19,Delivered,47312 Jones Plains,Adamland,AR,46563,2146.84
+99,391,2025-07-15,Delivered,19509 Megan Valley,Port Dianemouth,HI,56521,1360.94
+100,478,2025-01-09,Shipped,537 Lori Dale,North Antonio,CA,56886,2337.07
+101,123,2025-07-27,Delivered,007 Escobar Village Apt. 894,Hollybury,AS,85155,1929.09
+102,439,2025-02-01,Delivered,9893 Cooper Ranch Suite 471,Huffland,RI,94997,399.9
+103,382,2025-06-26,Delivered,3481 Rachel Stream,North Jonathanton,FL,46611,959.88
+104,198,2025-10-05,Delivered,21743 Kim Pine Apt. 526,South Michelleside,NE,05602,739.0
+105,19,2025-09-24,Delivered,3983 Macdonald Plains Apt. 842,Laurenfurt,PW,83157,3049.65
+106,303,2025-11-04,Shipped,2805 Brown Via Suite 406,Shanemouth,MI,10994,4012.77
+107,226,2025-04-29,Delivered,39209 Amber Isle Suite 107,Jessicaville,FM,31115,1192.47
+108,234,2025-01-16,Shipped,78619 Douglas Valley,Janetmouth,TX,51496,764.12
+109,336,2024-12-29,Delivered,06953 Roth Grove,Lake Gregorytown,MH,11339,1034.9
+110,401,2025-08-24,Delivered,75950 Eric Mall,North Luismouth,IL,94803,642.64
+111,355,2025-12-05,Delivered,9479 Johnson Haven,Port Travismouth,VT,25570,2467.89
+112,437,2025-11-01,Delivered,9805 Schneider Fort,North Alecfurt,LA,89307,2473.16
+113,163,2025-08-07,Shipped,0391 Joshua Crossroad,East Rosshaven,RI,92084,691.95
+114,36,2025-09-30,Processing,18491 Veronica Junction Apt. 855,West Gina,MA,19704,903.76
+115,117,2024-12-26,Delivered,1006 Hudson Ports Apt. 069,Hahnside,AR,10159,240.04
+116,51,2025-07-09,Delivered,774 Kimberly Garden Suite 842,Lake James,PR,38377,563.1
+117,356,2025-04-07,Shipped,00677 Blake Vista Apt. 550,East Cynthia,MP,01949,1032.95
+118,408,2025-01-06,Delivered,65426 Justin Mount Suite 290,Lake Stacey,UT,20089,711.9
+119,192,2025-03-03,Delivered,5110 Ashley Row,Combston,MI,32519,1263.68
+120,272,2024-12-11,Delivered,430 Olivia Crescent Apt. 667,Port Derek,AL,37409,561.72
+121,406,2025-11-22,Delivered,5988 Morris Port Apt. 129,Collinsfurt,AZ,30771,619.48
+122,41,2025-11-01,Shipped,2027 Gomez Ferry,West Stevenmouth,FM,03733,1365.48
+123,124,2025-09-04,Shipped,71152 Jennifer Plaza,East Jaimeburgh,CT,85309,255.96
+124,237,2025-10-13,Delivered,58189 Sharp Spur,Arianachester,CT,15189,497.48
+125,342,2025-06-22,Shipped,85588 Jessica Island Suite 721,Hawkinston,VT,07099,3666.09
+126,148,2025-09-26,Delivered,78931 Franklin Drives Suite 284,Suzanneport,VI,07502,1275.76
+127,227,2025-08-21,Shipped,227 Aaron Fall,New Kelly,DC,82456,219.28
+128,493,2025-12-03,Shipped,20414 Freeman Harbors,Lake David,WA,69300,1857.13
+129,155,2025-09-25,Processing,65993 Emily Street,East Barryborough,AR,36807,1477.7
+130,55,2025-12-07,Delivered,22775 Heather Cove,West Jennifer,AZ,17624,512.16
+131,184,2025-06-22,Delivered,5064 Gonzalez Springs,West Jenniferbury,MP,58168,1361.87
+132,359,2025-06-04,Delivered,6919 David Cliffs Apt. 291,Flemingland,NJ,39630,1092.18
+133,425,2025-05-04,Delivered,98310 Wright Streets,Carlfurt,MO,21761,1560.36
+134,290,2025-02-05,Shipped,16708 Michael Point,Tanyachester,MP,52045,2281.57
+135,427,2025-06-05,Shipped,3621 Cox Circle,Biancaview,ME,86487,1103.97
+136,411,2024-12-23,Delivered,6349 Jennifer Port Suite 504,Jacksonborough,DC,22644,1907.29
+137,98,2025-05-07,Delivered,1142 Robinson Loop,Port Joanne,SD,73220,932.52
+138,387,2025-09-05,Processing,2188 Amanda Park Apt. 962,Lake Larry,GU,93721,3422.47
+139,331,2025-01-10,Delivered,3385 Paige Stravenue Suite 725,West Amandabury,IA,34676,1895.76
+140,226,2025-02-25,Delivered,311 Charles Pines,Sullivanstad,VA,35507,1472.66
+141,375,2025-05-01,Delivered,694 Rivera Motorway Suite 945,West Tammy,NE,49091,525.63
+142,152,2025-07-16,Shipped,6698 Rivers Circles Suite 342,East Matthewstad,AK,70688,637.59
+143,68,2025-09-05,Shipped,594 Lisa Ferry,Carlsonmouth,WY,49156,294.22
+144,257,2025-07-20,Shipped,4721 Alexander Ways Suite 235,West Hunterville,GU,37976,1479.91
+145,423,2024-12-29,Shipped,893 Laura Estate Suite 145,Jasonton,NV,74762,1014.62
+146,446,2025-05-18,Shipped,731 Anthony Rue,South Shelbystad,PW,22391,1042.18
+147,39,2025-02-02,Shipped,58718 Flores Fords,Lisaview,WA,23598,228.12
+148,347,2025-05-26,Delivered,4701 Lee Estates Apt. 865,East Rebecca,NH,59872,2601.04
+149,188,2025-01-29,Shipped,5633 Smith Harbors Apt. 052,Randolphland,AK,48668,1459.99
+150,275,2025-04-14,Delivered,02722 Kyle Island,Batesborough,DE,56261,2846.52
+151,345,2024-12-19,Delivered,91368 Troy Expressway Apt. 313,Deanstad,VT,20708,1172.43
+152,422,2025-06-28,Delivered,09297 Maurice Stravenue Suite 953,East Gary,SC,91363,3066.12
+153,120,2025-10-04,Delivered,93899 Aaron Lakes Suite 353,East Rodney,CO,66990,184.19
+154,453,2025-04-23,Delivered,6108 Williams Ferry,Lawsonville,WV,66779,150.75
+155,313,2025-10-18,Shipped,60107 Eric Courts,Deannaside,IN,73675,980.5
+156,238,2025-08-29,Shipped,176 Ferguson Green,Mendozamouth,NV,99296,1057.15
+157,24,2025-03-21,Delivered,33222 Cynthia Throughway,Jonberg,MI,73929,114.66
+158,253,2025-08-26,Delivered,225 Brown Falls,Jasonton,MH,51568,1216.89
+159,455,2025-03-13,Delivered,11804 Sutton Overpass Suite 130,Caldwellbury,PR,73755,482.58
+160,233,2025-04-06,Shipped,852 Pamela Cliffs,Port Paul,MO,87152,884.16
+161,485,2024-12-31,Delivered,639 Sandoval Lights Apt. 547,West Lucasshire,CA,23344,4275.55
+162,381,2025-12-07,Shipped,1641 Ashlee Spring,Markview,AK,75156,2787.38
+163,427,2025-12-06,Delivered,693 Hayes Parks,Lindaton,NJ,00570,2788.87
+164,144,2025-10-20,Shipped,42620 Cindy Run,Davisland,FL,40803,2710.52
+165,228,2025-01-06,Shipped,369 Ford Port,Sullivanshire,NC,62703,165.78
+166,352,2025-03-02,Delivered,67731 David Run,Leonardtown,NH,44949,978.6
+167,331,2025-09-05,Delivered,865 Mary Fords Suite 319,Lake Kaylamouth,ME,25191,1022.97
+168,142,2024-12-20,Processing,31202 Brenda Knoll Apt. 576,Victoriashire,SC,60282,1998.55
+169,422,2025-10-15,Delivered,0002 Donaldson Mountain Suite 448,Crawfordport,OK,59198,1499.26
+170,109,2025-07-27,Shipped,1636 Simmons Bypass Suite 500,Sanchezmouth,UT,29414,2700.71
+171,171,2025-06-09,Shipped,96496 Sydney Mill,North Nicoleshire,SD,47437,1861.24
+172,106,2025-01-31,Shipped,53059 Ball Fall Suite 512,South Robert,IL,56411,679.95
+173,301,2025-04-04,Shipped,59489 Carr Keys,Robertchester,IA,39630,1187.28
+174,397,2025-04-16,Shipped,3441 Salazar Locks Apt. 934,Bethport,IN,75856,2203.08
+175,142,2025-11-16,Shipped,4088 Dustin Causeway Suite 862,Cummingsborough,OK,88189,1743.58
+176,409,2025-10-22,Delivered,32109 Anderson Spurs Apt. 170,Murphyhaven,MI,25760,424.54
+177,444,2025-03-30,Delivered,5792 Benjamin Branch Apt. 449,Charlesfurt,CA,19949,1890.14
+178,184,2025-09-15,Delivered,002 Rodriguez Tunnel,East Jessicamouth,MA,52075,1208.05
+179,9,2025-11-09,Delivered,963 Aguilar Road Suite 086,New Chelsealand,KS,93013,1791.57
+180,65,2025-04-28,Delivered,45663 Charles Plains Suite 034,East Maria,GA,88417,2223.72
+181,382,2025-09-22,Delivered,33474 Joseph Fords,North Kevinmouth,VT,76450,554.9
+182,399,2025-05-19,Delivered,008 Page Divide Suite 690,Port Desiree,SD,87357,605.26
+183,56,2025-06-16,Delivered,1743 Kevin Ville Suite 023,Staceyburgh,GA,73781,2035.43
+184,485,2025-08-02,Delivered,6527 Blair Terrace Apt. 332,New Laura,AL,18365,2010.51
+185,402,2024-12-15,Delivered,6913 Natalie Forks,East Jameschester,NH,58300,2563.76
+186,330,2025-01-04,Delivered,675 Samuel Meadow,Port Timothy,RI,46031,1026.87
+187,246,2025-09-26,Delivered,02453 Christian Extensions Apt. 984,Jacksontown,IL,36002,760.35
+188,56,2025-09-13,Shipped,28471 Christopher Stravenue,East Dorothy,DC,38862,1950.65
+189,461,2024-12-29,Delivered,76487 Marie Mountains Suite 546,New Kristinburgh,KS,07060,279.26
+190,76,2025-05-08,Delivered,838 Moore Springs Suite 258,East Ericton,AS,77169,1808.81
+191,320,2025-10-08,Delivered,6844 Stacey Oval Apt. 379,Port Jacobberg,CO,11766,1277.54
+192,167,2024-12-27,Shipped,780 Heidi Spurs,Aguirreton,TN,10191,298.12
+193,233,2025-06-03,Shipped,4039 Michael Radial,Heatherburgh,PA,42226,1107.18
+194,360,2025-09-20,Shipped,1222 Dougherty Summit,Johnside,NH,24328,2320.61
+195,394,2025-02-10,Shipped,4221 Thompson Springs,Ginaview,OR,85179,2497.51
+196,232,2025-05-06,Delivered,08334 Turner Wells,West Waynehaven,NM,67160,638.68
+197,424,2025-07-29,Delivered,47020 Austin Lane Suite 195,Port Evelyn,NM,34236,412.38
+198,374,2025-08-08,Delivered,6329 Gutierrez Grove,South Samantha,NJ,42300,3007.85
+199,161,2025-10-13,Delivered,59206 Norma Keys,East Lisaberg,AK,86237,2285.16
+200,79,2025-05-01,Delivered,94115 Robinson Drive,Leslieshire,MO,30987,724.72
+201,426,2025-05-27,Delivered,2629 Beck Falls,South Nicholasmouth,TN,34476,748.55
+202,50,2025-08-08,Shipped,851 Jamie Coves,Lake Amanda,PR,05802,214.8
+203,301,2024-12-25,Delivered,832 Lori Corner Apt. 212,West Karahaven,TN,15266,2060.19
+204,344,2025-09-11,Delivered,268 Nichols Locks Suite 019,New Markside,ND,08167,1682.76
+205,448,2025-05-09,Shipped,2006 Ashley Parkway Suite 787,Port Lee,MD,97068,867.57
+206,496,2025-05-08,Shipped,6419 Ramsey Forge Suite 219,Lake Sarah,AS,19484,1172.63
+207,296,2025-02-16,Delivered,20410 Martin Glen,Port Teresa,LA,96542,2006.01
+208,337,2025-06-15,Delivered,79726 Johnston Pine,Lake Eugeneborough,DE,96885,265.34
+209,56,2025-07-10,Shipped,36660 Jasmin Circle,West Sharonburgh,ND,44627,3797.73
+210,391,2025-02-22,Delivered,10505 Joseph Pines Apt. 805,South Megan,RI,22903,2593.18
+211,414,2025-08-22,Delivered,76862 Avila Gardens,East Megan,FM,27607,196.04
+212,420,2025-11-16,Shipped,337 Mccullough Corner Suite 186,South Spencer,IA,57393,904.92
+213,14,2025-07-11,Cancelled,01328 James Fork Apt. 188,West Rachael,NH,97123,3852.44
+214,137,2025-07-30,Delivered,750 Cisneros Orchard,Cruzton,NE,99528,2302.92
+215,360,2025-08-10,Shipped,208 Melissa Via Suite 319,South Catherine,MT,15807,610.25
+216,93,2025-06-05,Delivered,9698 Amber Hills,Donnaburgh,WA,89047,1137.63
+217,206,2024-12-15,Delivered,665 Ferguson Track,New Molly,OK,12848,1280.69
+218,325,2025-01-31,Delivered,3498 Matthew Fork Suite 607,Oliviashire,VI,80170,3427.26
+219,272,2024-12-17,Delivered,7296 Garza Hollow Apt. 799,Washingtonside,AL,73016,1880.51
+220,233,2025-10-08,Delivered,7485 Sullivan Club Apt. 984,South Stevenport,MP,60575,2157.17
+221,160,2025-06-28,Shipped,69881 Carter Prairie Apt. 445,Port Cassidyhaven,AS,52208,3161.55
+222,44,2025-11-14,Delivered,2102 Taylor Mount,South Ricardoside,PA,08523,459.31
+223,387,2024-12-16,Delivered,8458 Kayla Alley,Port Elizabeth,AZ,43739,273.35
+224,42,2025-06-14,Delivered,883 Green Walk Apt. 856,North Edward,NV,49070,1419.36
+225,218,2025-11-29,Shipped,03056 Garcia Ways,Deannatown,PW,47350,3298.86
+226,111,2025-05-08,Delivered,84937 Reynolds Port Apt. 870,New Thomaschester,FM,84746,1160.9
+227,221,2025-10-17,Delivered,13651 Jerry Hill,Stephanieview,DC,79334,978.06
+228,348,2025-07-28,Delivered,7456 Cardenas Landing,West Shelby,MS,19082,1728.64
+229,342,2025-10-10,Delivered,55996 Taylor Manors,East Sheila,HI,16869,1005.52
+230,203,2025-08-02,Delivered,3347 Jonathan Inlet,Lesterport,ND,38324,146.5
+231,105,2025-08-31,Shipped,9396 Jackson Vista Apt. 835,South Mariaberg,LA,44150,102.36
+232,392,2025-09-17,Delivered,12900 Preston Shoals Apt. 117,Port Danielle,SC,61228,2470.15
+233,62,2025-06-19,Delivered,4883 Peters Station,Angelaburgh,HI,77106,1541.29
+234,221,2025-08-25,Delivered,52516 Tiffany Islands Suite 591,Jonesmouth,PW,07346,2302.44
+235,273,2025-07-02,Delivered,4914 Gibson Grove,Hallstad,SC,28658,466.78
+236,427,2025-04-26,Delivered,7841 Wilson Prairie,Jacquelineshire,NH,26641,718.35
+237,442,2025-03-19,Delivered,305 Tracy Place Apt. 331,South Christopher,WY,09498,2566.52
+238,236,2025-09-02,Shipped,89260 Hunter Extensions,West Laurafort,ND,62788,1891.96
+239,294,2025-02-23,Shipped,8625 Lawrence Crossing,Holtchester,MD,87125,721.15
+240,59,2025-03-01,Delivered,378 Craig Port Apt. 567,West Joshua,MS,65586,2342.49
+241,167,2025-01-12,Shipped,6296 Valerie Fork Apt. 629,Pamelachester,KS,45256,403.3
+242,426,2024-12-29,Delivered,010 Castillo Ports,New Rebeccamouth,GA,12979,2233.42
+243,433,2025-09-08,Delivered,968 Conway Extension,Peterhaven,WI,68226,1454.87
+244,302,2025-04-03,Delivered,572 Colon Overpass Suite 958,New Judy,MP,78139,2091.37
+245,203,2024-12-28,Shipped,17978 Lori Hills,Lake Charlene,VI,59726,1586.04
+246,399,2025-11-23,Delivered,0598 Moon Greens,Lisaview,WY,27516,1240.0
+247,325,2025-05-23,Delivered,86811 Jessica Route Apt. 388,Karenside,DE,11237,1589.58
+248,100,2025-07-21,Delivered,781 Landry Junction,Port Andrewshire,SC,22380,2498.81
+249,491,2025-10-28,Delivered,7905 Hernandez Wall,Middletonshire,IL,29469,2250.57
+250,75,2025-10-24,Delivered,58807 Kayla Skyway Suite 326,Lake Julieville,OK,32106,2474.33
+251,309,2025-10-10,Shipped,38297 Taylor Way,Michaelbury,VA,56415,634.64
+252,91,2024-12-25,Delivered,858 Melissa Stravenue,North Justinton,FM,18278,2495.41
+253,289,2025-04-04,Delivered,736 Rebecca Square,Harrisfurt,DC,58155,1472.58
+254,474,2025-01-08,Cancelled,589 Carroll Fords,Johnton,VT,01433,496.83
+255,166,2025-08-09,Delivered,561 Chen Highway Suite 315,Hooverbury,OR,64378,3024.1
+256,35,2025-07-17,Delivered,5116 Sanchez Springs,Lake Dennishaven,PW,31956,1336.76
+257,156,2025-06-10,Delivered,70289 Barajas Run Suite 605,West Gregory,CO,50008,764.46
+258,181,2025-10-18,Delivered,1610 Cindy Square Suite 535,Robertview,AZ,49430,289.1
+259,237,2025-01-26,Delivered,88027 Alan Divide,Barneschester,DC,67231,1360.59
+260,189,2025-11-12,Delivered,4471 Brittany Underpass,North Barbara,OK,06386,2081.94
+261,443,2025-05-20,Shipped,4909 Glen Plain Suite 987,Monicastad,DE,93157,2230.13
+262,237,2025-03-11,Delivered,727 Shawn Flat Apt. 688,Port Danielfurt,MP,36020,1094.05
+263,406,2025-10-06,Delivered,43988 William Ford,Ramosstad,NY,29657,1043.04
+264,415,2025-09-19,Shipped,64770 Davis Stravenue,New Alexanderville,MI,25798,35.04
+265,244,2025-06-26,Delivered,28262 Baker Expressway Apt. 412,North Cheryl,VA,86008,2922.54
+266,32,2025-04-26,Delivered,2044 Andrew Station Suite 941,East Joseph,WI,31984,465.26
+267,461,2025-10-31,Shipped,97941 Douglas Harbor,Johnsonside,NJ,20295,1825.56
+268,331,2025-09-24,Delivered,9632 Nathaniel Park Suite 224,West Marisaborough,HI,55448,344.99
+269,363,2025-01-16,Shipped,900 Kevin Pine,Garciafurt,IL,07088,119.82
+270,313,2025-06-11,Delivered,86720 Kimberly Bypass,Kimberlybury,MO,54778,1104.9
+271,470,2025-09-15,Delivered,95368 Alejandro Mountain,Jacobstown,AR,13055,1501.86
+272,397,2025-06-19,Shipped,59007 Christina Corners,Port Kimberly,SD,59676,1874.41
+273,324,2025-02-13,Delivered,13869 Julia Mountains,Lake Peterberg,HI,16223,319.9
+274,49,2024-12-18,Shipped,4617 Ashley Plaza Apt. 707,Kirkchester,AR,19467,1686.15
+275,371,2025-10-25,Shipped,4225 Christopher Locks,East Matthewborough,PW,77533,1152.31
+276,299,2025-03-23,Shipped,09447 Ware Lane,East Emilychester,SD,82487,1882.15
+277,336,2025-04-25,Delivered,32761 Morrison Hills Apt. 245,Breannastad,DE,50605,980.55
+278,363,2024-12-23,Delivered,19158 George Meadows,Holderport,VA,80015,2307.69
+279,193,2025-10-16,Shipped,7868 Martinez Mountain Suite 008,Larryview,AK,67501,297.45
+280,425,2025-09-25,Delivered,8191 Travis River,North Samuel,AZ,07100,2652.21
+281,344,2025-05-14,Delivered,9235 Joshua Grove,Nelsonton,NY,21173,346.46
+282,10,2025-01-23,Delivered,865 Reynolds Drive,East Cameronburgh,ID,97950,713.04
+283,487,2025-09-17,Delivered,205 Smith Fords Apt. 000,New Aprilbury,WY,38733,673.31
+284,393,2025-09-23,Delivered,3919 Aaron Pike Apt. 141,Yatestown,OR,12604,568.97
+285,71,2025-05-07,Delivered,27379 Singh River,South Alanmouth,ME,71715,1499.12
+286,433,2025-11-01,Delivered,674 Sanchez Causeway,New Lisashire,NY,36851,1271.56
+287,277,2025-08-31,Delivered,61137 Sarah Pike,West Christopherside,SD,48916,1708.8
+288,173,2025-09-04,Delivered,8294 Teresa Field Suite 015,West Kathryn,KY,54617,277.98
+289,193,2025-05-17,Delivered,5699 Campbell Squares,Michellechester,NV,19935,630.7
+290,426,2025-09-13,Shipped,08240 Jasmine Plains,Lake Williamberg,SD,29663,438.4
+291,225,2025-06-26,Delivered,402 Taylor Pines Suite 817,Haleyberg,NH,30306,2536.45
+292,347,2025-10-11,Shipped,364 Stephanie Forges Suite 700,Christopherville,WI,73903,752.35
+293,386,2025-02-01,Delivered,81612 Reed Brook Suite 610,South Carolynbury,AR,35169,1122.55
+294,123,2025-05-23,Shipped,01283 Stephen Burgs Apt. 232,Jonesland,DC,04349,220.87
+295,463,2025-08-20,Delivered,507 Graham Islands Apt. 446,West Dianaberg,NV,55415,3596.07
+296,485,2025-03-03,Shipped,0191 Young Lakes Suite 347,West Jimmy,OH,55794,1122.4
+297,145,2025-01-10,Delivered,8225 Kara Crossroad Suite 267,New Philipchester,VT,51281,3650.28
+298,215,2025-12-07,Processing,622 Terrell Road Suite 687,Kristyport,NJ,61722,929.78
+299,71,2025-10-27,Delivered,290 Michael Camp,Proctorville,AS,67381,1141.88
+300,247,2025-04-05,Delivered,2235 Cain Inlet Apt. 466,North Edward,MA,84019,410.23
+301,53,2025-05-26,Shipped,525 Andrews Extensions Apt. 644,Port Davidfort,WI,26134,2361.93
+302,391,2025-07-09,Delivered,273 Mercedes Meadow,West Jeremiah,TX,77408,1273.48
+303,464,2025-10-11,Delivered,821 Willis Manor Apt. 664,West Melanieville,AZ,24322,2061.95
+304,224,2025-01-13,Shipped,4341 John Burgs,Lake Richardport,RI,98015,802.5
+305,231,2025-07-02,Shipped,37218 Brown Centers Apt. 203,New Seanshire,RI,79719,434.82
+306,203,2025-11-28,Delivered,14003 Ellison Mountains,East Danielfort,WA,13464,182.46
+307,198,2025-07-26,Delivered,860 Nicole Throughway Suite 259,Lake Williamville,OR,85437,2305.96
+308,15,2025-03-29,Shipped,550 Chase Mill Suite 358,Lake David,NJ,22320,829.5
+309,333,2025-07-13,Shipped,072 George Centers Apt. 716,South Anthonyhaven,DE,81184,423.57
+310,147,2025-06-09,Shipped,39964 Henry Crest,South Matthew,IN,05785,3401.84
+311,362,2025-05-31,Delivered,102 Payne Spring Suite 578,North Geoffreyview,TN,38926,757.28
+312,3,2025-02-22,Delivered,62216 Kristina Lights,Arnoldmouth,KS,52721,1164.68
+313,111,2025-08-24,Delivered,67516 John Vista Suite 215,Lake Darrellchester,MH,39585,2311.09
+314,373,2025-10-24,Delivered,1070 James Cape,Patriciaburgh,LA,28272,2083.24
+315,57,2025-09-07,Delivered,839 Keith Walk,Wesleybury,AK,01840,1224.03
+316,63,2025-04-05,Delivered,691 Leslie Forks,East Craigland,MS,62926,1128.19
+317,328,2025-09-14,Delivered,864 Marquez Gardens Apt. 953,Andrealand,AL,43211,551.72
+318,57,2024-12-15,Delivered,7642 Wagner Valley,Foleyville,MD,62427,3656.84
+319,9,2025-03-14,Delivered,1281 Velez Isle Apt. 239,Kathyfort,NY,13406,3235.33
+320,368,2025-04-20,Delivered,2609 Martin Street Suite 024,Ryanstad,WI,37225,1138.75
+321,1,2025-05-22,Delivered,2051 Garcia Mount Apt. 087,West Patrickview,WV,86004,219.4
+322,293,2025-06-13,Delivered,0317 Parker Forks,Port Jacobmouth,LA,10055,1269.2
+323,343,2025-10-31,Delivered,572 Williams Port Apt. 546,Zavalamouth,HI,73246,2159.53
+324,185,2025-06-27,Shipped,76642 Sean Lane Apt. 271,West Jared,OH,53046,2613.99
+325,403,2025-06-11,Delivered,259 Jeffery Pines Suite 879,South Paulatown,AS,35005,2287.54
+326,200,2025-06-27,Delivered,320 Deleon Tunnel Apt. 405,Lake Aliciaberg,NJ,26717,2144.45
+327,199,2025-07-21,Delivered,159 Patterson Glens Apt. 535,Colefort,NY,78538,2034.12
+328,9,2025-11-16,Shipped,5542 Jefferson Radial Apt. 384,Port Henry,IL,53249,2276.73
+329,376,2025-09-26,Shipped,3202 Sherry Drive,Garcialand,MP,61421,291.12
+330,171,2025-10-27,Delivered,769 Tanya Coves Suite 204,New Nicole,MN,15445,927.1
+331,280,2025-03-31,Shipped,698 Antonio Extensions Apt. 690,New Melissa,HI,25035,2335.58
+332,399,2024-12-20,Shipped,698 Cody Grove,Lake Raymond,NM,10650,1372.08
+333,94,2025-01-01,Delivered,017 Stephenson Trace Apt. 316,South Paige,AZ,45384,1935.75
+334,398,2025-09-01,Delivered,49332 Conley Falls,Sabrinafurt,OK,29844,1676.48
+335,104,2025-11-05,Pending,2947 Werner Point,New Jeffreyshire,AZ,97682,793.08
+336,162,2025-05-12,Delivered,0259 Rodriguez Rapids Apt. 932,Haynesfort,HI,71400,2242.5
+337,418,2025-11-08,Delivered,91635 Kenneth Trail,Brownchester,VT,55522,1391.93
+338,19,2025-06-02,Delivered,527 Angela Hollow Suite 397,Cindyshire,MN,03567,516.94
+339,442,2025-06-02,Shipped,864 Robert Park,Karentown,GA,06346,728.04
+340,64,2025-07-08,Delivered,192 Gabriel Trail,West Kimberlyport,FM,31721,1253.48
+341,205,2025-08-06,Shipped,4890 Glenn Estate,Susanbury,IL,23217,1322.61
+342,499,2024-12-11,Delivered,51025 Cooper Circle,New Nicolebury,MA,37683,2373.91
+343,255,2025-04-15,Shipped,69888 Neal Fords,Port Kimberly,ID,21761,2699.7
+344,411,2025-04-02,Shipped,2962 Lisa Burg,Anneside,SD,30711,1284.35
+345,309,2025-01-25,Delivered,4129 Sean Isle,Edwardsberg,AR,15954,2055.91
+346,165,2025-02-02,Delivered,6317 Parker Landing,Ernesttown,MS,24389,298.23
+347,339,2025-07-28,Delivered,193 Peterson Underpass Apt. 922,Griffinbury,CT,63627,2060.17
+348,309,2025-05-02,Delivered,626 Wells Drive,Kingville,MH,19095,1168.93
+349,228,2025-09-07,Delivered,617 Anthony Ports,Lake Judy,ND,35704,1916.96
+350,373,2025-04-10,Shipped,0321 Michael Forks,Michaelmouth,CT,36009,3249.11
+351,328,2025-02-28,Delivered,91430 Washington Ramp,Littleview,NH,79860,3015.64
+352,327,2025-01-27,Delivered,422 Walter Freeway Suite 581,Lake Sara,AL,40151,1358.11
+353,411,2025-10-04,Shipped,0676 Suzanne Freeway Apt. 998,Gomezstad,VI,81439,1554.3
+354,312,2024-12-31,Delivered,7846 Brown Pike,Danastad,WA,69614,2313.57
+355,35,2025-07-02,Shipped,825 Page Neck,South Kristina,AK,97449,404.84
+356,197,2025-06-24,Delivered,7292 Torres Forge Suite 519,Jacksonburgh,HI,24561,1648.73
+357,79,2025-11-11,Shipped,18256 Katherine Hills Suite 286,New Kathleen,FM,24130,2691.31
+358,391,2025-08-16,Delivered,22341 Hudson Extensions,Port Alexanderchester,MO,22814,2026.26
+359,272,2025-10-27,Delivered,26604 Clayton Center Suite 632,South Maryton,AK,94502,1189.75
+360,333,2025-03-08,Delivered,19335 Amber Fall,East Kenneth,NH,12775,163.6
+361,59,2025-01-11,Shipped,0060 Steven Shoals,West Ricardofurt,DE,90296,536.0
+362,199,2025-09-25,Delivered,76264 Jeanne Station Suite 009,Jeremyburgh,ID,36070,698.88
+363,397,2025-05-22,Shipped,6231 Tonya Flat,Wilsonview,LA,93896,1099.15
+364,314,2025-01-14,Shipped,2316 Hill Viaduct Suite 137,South Terry,MH,51404,214.84
+365,103,2025-06-30,Delivered,6063 Munoz Falls Apt. 461,Murphymouth,CT,67557,1305.44
+366,38,2025-07-10,Delivered,17999 Gerald Square Apt. 024,South Kyle,WI,35539,2924.35
+367,366,2025-01-08,Delivered,34565 Walter Loaf Suite 790,West Morgan,WI,70764,1808.19
+368,496,2025-05-01,Shipped,2689 Juan Mountain,East Zachary,VA,93050,3455.56
+369,282,2025-03-22,Delivered,009 Perez Well,Conniemouth,NJ,97745,231.26
+370,154,2025-03-23,Processing,64359 Mary Bypass,South Amanda,KS,88576,1173.97
+371,327,2025-05-23,Shipped,7614 Stanley Pike,Joshuamouth,AR,52429,510.64
+372,63,2025-09-17,Shipped,87564 Sweeney Curve Suite 368,West Donnaland,NC,49360,936.4
+373,253,2025-10-22,Delivered,27729 Alex Path,Matthewmouth,SD,74176,433.8
+374,294,2025-05-07,Delivered,3566 Matthew Camp,Lake John,KY,56181,1549.26
+375,283,2025-07-26,Shipped,06773 Lisa Mountains,New Sarahburgh,WA,24540,1958.45
+376,159,2025-05-21,Shipped,9419 Kellie Mission Suite 538,Ericaton,MS,62200,1276.31
+377,270,2025-09-26,Delivered,634 Heather Square,Archertown,WA,41777,2469.51
+378,38,2025-10-15,Shipped,49221 Brown Rue Suite 186,Johnsonfurt,IL,24987,644.73
+379,231,2025-10-30,Shipped,62907 Sherry Prairie,Port Mary,MP,81203,2341.75
+380,450,2025-01-09,Shipped,1826 Church Trafficway,Port Linda,NH,12354,2063.7
+381,495,2025-06-04,Delivered,649 Jackson Radial,Ericborough,VT,91655,1820.32
+382,467,2025-07-26,Shipped,35490 Justin Trail,Colefurt,PA,24045,2604.28
+383,156,2025-01-02,Delivered,730 Green Rest Apt. 438,Donnabury,AS,07618,2704.55
+384,479,2025-09-05,Delivered,178 Robert Parkway,South Cynthiaview,TN,29571,385.48
+385,482,2025-08-29,Cancelled,8901 Santos Glen,Port Destiny,CO,43567,915.31
+386,129,2024-12-09,Shipped,0170 Robert Hills,South Nicholeborough,AK,67764,319.48
+387,65,2025-08-10,Shipped,172 Hernandez Expressway,Pierceport,MP,39710,1382.2
+388,329,2025-11-01,Delivered,07288 Bean Ferry Suite 411,Fernandezchester,OR,90340,1451.55
+389,298,2025-01-21,Delivered,27662 Angela Pines Apt. 039,South Brianburgh,MT,26010,1904.18
+390,320,2025-08-27,Delivered,4359 Mccoy Ferry Suite 587,North Gregoryport,AS,87260,720.71
+391,474,2025-12-05,Delivered,2536 Brenda Drives,South Michael,AL,24439,1264.41
+392,443,2025-07-11,Delivered,760 Chelsea Run Suite 024,South Lucas,PR,90902,1927.48
+393,486,2025-04-07,Delivered,5364 Holly Via,Clarkeview,TX,02633,2150.27
+394,108,2025-03-13,Delivered,488 David Well Suite 738,Joshuafurt,MT,20459,2997.69
+395,328,2025-02-23,Delivered,60667 Campbell Cliffs,West Bonnie,OK,64018,25.1
+396,322,2025-11-27,Delivered,04298 Lopez Loop,North Patrick,MO,10026,2490.75
+397,490,2025-06-03,Delivered,35699 Brianna Street Apt. 358,Grimesfurt,OH,67972,468.93
+398,413,2025-06-07,Delivered,9256 Kevin Gateway Suite 820,Paulabury,CT,43410,1626.55
+399,38,2025-02-24,Delivered,122 Smith Avenue,West Kennethmouth,MO,19741,953.16
+400,213,2025-10-31,Delivered,3049 Jeff Crest,East Zacharyshire,NM,42627,1651.2
+401,175,2025-02-06,Delivered,09986 Wall Lights Suite 224,West Christineberg,AR,68473,1632.64
+402,442,2025-02-17,Shipped,3097 Patterson Union,New Sherryside,MH,81823,153.3
+403,500,2025-05-13,Delivered,805 Ferguson Avenue,South Donnabury,SC,00865,718.46
+404,190,2025-06-01,Delivered,1869 Spence Drives Suite 043,Travisville,VT,21913,1084.71
+405,164,2025-04-11,Delivered,37956 Alexander Parks,Simpsonburgh,CA,65555,2942.35
+406,137,2025-04-23,Delivered,61920 Heather Village,New Jamesfort,ID,28021,311.75
+407,50,2025-06-05,Delivered,42444 Mitchell Rest,Port Josephchester,AK,58687,825.16
+408,197,2025-09-26,Delivered,35107 Morris Tunnel Apt. 708,Christopherbury,TN,22319,1774.21
+409,493,2025-11-09,Processing,45634 Cassidy Cliffs Suite 805,Amyland,VA,97049,1570.24
+410,370,2025-10-18,Delivered,7449 Caldwell Gateway,South Brandonfort,GU,62471,3156.63
+411,82,2024-12-10,Shipped,0930 Flores Inlet,New Joshuatown,WV,33091,2411.63
+412,451,2025-07-31,Delivered,18039 Long Estates,East Willieside,OH,52843,2596.33
+413,47,2025-08-31,Delivered,078 Edward Islands Apt. 951,Campbellchester,VT,79185,1641.63
+414,495,2025-02-27,Delivered,356 James Field,Evanstown,NY,66984,1593.23
+415,181,2025-11-23,Delivered,7089 Riddle Canyon,North Tiffany,VT,15899,2629.94
+416,254,2025-07-29,Shipped,431 James Walks,Port Peter,CT,13116,847.99
+417,241,2025-04-18,Delivered,580 Martin Locks Apt. 211,Johnsonmouth,AS,90120,3038.79
+418,434,2025-08-27,Delivered,05397 Thomas Groves,Jenniferport,NJ,95712,248.24
+419,452,2025-09-06,Shipped,231 Christensen Highway,Reeseshire,MA,96078,433.79
+420,188,2025-03-13,Delivered,7662 White Islands Suite 053,East Kaitlynland,WA,70574,1121.92
+421,292,2025-04-04,Delivered,57870 Rebecca Path,Williamston,MO,31500,75.95
+422,284,2024-12-25,Delivered,3605 David Pines Apt. 640,North Micheleshire,AZ,78143,3292.07
+423,259,2025-01-23,Shipped,30252 Charlene Junction,Lake James,NH,99719,1140.65
+424,320,2025-05-02,Delivered,953 Autumn Views Apt. 600,Williamsmouth,MI,65119,1343.6
+425,500,2025-12-06,Delivered,544 Bradley Heights Suite 453,North Angelaside,DE,94658,1035.96
+426,407,2025-07-09,Delivered,5834 Gill Locks Suite 229,Edwardfort,RI,65387,1065.91
+427,188,2024-12-29,Delivered,660 Tara Lodge Apt. 624,Johnsontown,LA,59340,2876.65
+428,261,2025-11-09,Delivered,6023 Marsh Circles,Williamtown,CA,49582,2521.78
+429,24,2025-02-24,Delivered,73167 Leslie Center,Alishashire,AR,49445,1411.45
+430,171,2025-01-28,Delivered,4133 Parker Port,Brianfurt,KS,96435,658.12
+431,77,2025-09-24,Shipped,15790 Sharp Crossing Apt. 898,Grahamport,PR,94676,1023.99
+432,477,2025-05-15,Delivered,5618 James Islands,Bakerside,NH,52403,2109.42
+433,202,2025-07-09,Shipped,7023 Abbott Unions,New Josephtown,AS,84700,457.36
+434,173,2025-01-16,Shipped,09567 Jay Vista,Lake Jasmine,UT,63292,694.1
+435,363,2025-03-01,Delivered,96440 Misty Dale,Johnburgh,GU,52246,2785.13
+436,418,2025-12-07,Delivered,9924 Scott Freeway Apt. 385,North Derrick,TX,24403,1299.41
+437,345,2024-12-17,Shipped,0169 Jeremy Union,New Joshua,DC,28343,1725.24
+438,408,2025-04-03,Delivered,199 Pamela Branch Suite 551,Meganmouth,DC,51488,1418.68
+439,136,2024-12-31,Delivered,6999 James Forges Apt. 006,Traciborough,TX,20781,321.09
+440,370,2025-02-18,Delivered,227 Mcdonald Forge Apt. 168,South Richardport,VA,63172,1245.85
+441,88,2024-12-19,Shipped,38503 Salinas Isle Suite 298,Derekport,CO,95911,1314.82
+442,431,2025-10-25,Delivered,740 Rachael Groves,Lake Deborahchester,NJ,99933,2248.96
+443,349,2025-04-30,Delivered,7625 Meagan Meadows,North Megan,IA,93114,3195.19
+444,486,2025-05-15,Delivered,564 Daniel Haven,Adamsfort,SD,77335,2803.55
+445,226,2025-02-28,Delivered,399 Goodman Villages,Meganland,KS,78979,3353.16
+446,212,2025-11-28,Delivered,99550 Harper Union Apt. 266,Jayberg,WA,29655,1704.43
+447,397,2025-07-26,Cancelled,1212 Donna Cove Suite 948,Jeremytown,AL,92225,502.7
+448,377,2025-01-06,Shipped,762 Renee Viaduct,Sheilaport,HI,83990,1429.86
+449,288,2025-02-09,Shipped,7871 Regina Crossroad Apt. 788,Brownside,PR,38528,1042.18
+450,193,2025-01-04,Shipped,061 Heidi Glens Suite 647,Petermouth,NY,56649,140.12
+451,273,2025-09-01,Delivered,496 Nicole Plains Apt. 097,East Randall,DE,07145,4002.88
+452,347,2025-10-30,Shipped,261 Morales Avenue,South Marcusmouth,VA,59433,1834.46
+453,127,2025-08-31,Delivered,5786 Murphy Trace Suite 751,West Thomas,KY,01250,1863.07
+454,116,2024-12-11,Shipped,8758 Stokes Walks,West Felicia,MI,09845,3393.62
+455,354,2025-05-19,Delivered,4512 Patricia Wall Suite 418,Fitzpatricktown,FL,26940,2669.67
+456,179,2025-02-25,Shipped,608 Mary View Suite 017,East Rickyton,FM,82055,787.14
+457,141,2025-04-03,Delivered,38602 Laura Isle Apt. 898,North Tonya,WI,36936,1216.65
+458,347,2025-09-24,Delivered,49096 Madison Mountains,Parrishshire,FM,64330,728.95
+459,203,2025-01-30,Shipped,2841 Michael Ridge Suite 804,Robinmouth,IL,46892,2699.44
+460,149,2025-09-27,Delivered,748 Ashley Parks Apt. 940,Breannaside,AZ,18897,1686.66
+461,366,2025-08-21,Delivered,29442 Laurie Course Suite 892,Abigailtown,NH,25563,2108.56
+462,227,2025-11-01,Shipped,03197 Ruiz Place Suite 759,Stephanieville,TN,40971,835.6
+463,424,2025-01-03,Delivered,482 Adam Pike Apt. 958,Hortonview,CT,75284,324.55
+464,288,2025-05-21,Delivered,32605 Moran Throughway,Gabrielchester,MP,63489,1256.67
+465,316,2025-04-01,Delivered,73066 Megan Forest,West Christopherhaven,MH,12340,2028.38
+466,26,2025-06-09,Delivered,2655 Perry Plaza,South Sarahbury,DC,60816,185.48
+467,120,2025-09-16,Delivered,71798 Tina Extension,South Erin,OK,07921,881.88
+468,170,2024-12-22,Delivered,4870 Patrick Mission Suite 417,Crawfordmouth,ID,78272,187.83
+469,395,2025-06-30,Delivered,890 Curry Mountain,West Brandymouth,NM,79475,154.52
+470,282,2024-12-31,Delivered,8962 Serrano Fords Suite 887,Harristown,VI,20889,381.7
+471,479,2024-12-15,Delivered,1239 Maldonado Falls Apt. 905,New Natalieside,CT,20776,1533.75
+472,103,2025-12-04,Delivered,182 Deborah Overpass Apt. 669,Port Davidmouth,OR,17796,1694.93
+473,331,2025-03-04,Shipped,98268 Jeffrey Squares Suite 497,East Jenniferton,MT,64835,1808.95
+474,294,2025-04-15,Delivered,968 Wendy Field Suite 570,Ramosville,WI,22889,2761.81
+475,371,2025-10-31,Shipped,55505 Lowe Bypass,Davidland,NC,63211,1182.53
+476,452,2025-08-05,Shipped,444 Larry Pass,North Teresa,ME,08875,1498.25
+477,429,2025-04-07,Shipped,12350 Richard Mills Apt. 568,Lake Benjaminmouth,FM,59527,2418.79
+478,384,2025-08-05,Shipped,023 Brock Road Suite 568,Josefort,OK,38963,717.57
+479,291,2024-12-18,Delivered,6401 Robinson Dale,Timothyfort,NY,87258,2861.44
+480,172,2025-02-27,Delivered,9757 Carolyn Squares,Lake Scott,CT,67222,941.51
+481,329,2025-05-10,Delivered,029 Mark Land,Dawnbury,IN,23445,622.05
+482,456,2025-04-04,Shipped,5185 Medina Prairie,Roblestown,NH,27672,2051.17
+483,99,2025-04-04,Delivered,7462 Michael Roads Suite 841,Adamsville,NE,08842,1089.2
+484,375,2025-05-29,Shipped,0221 Richard Plaza,Lake Maryport,MH,13461,3271.69
+485,8,2025-03-07,Shipped,7609 Roth Ford Suite 740,New Lisa,VI,16934,452.64
+486,388,2025-07-05,Delivered,3302 Nixon Roads Suite 099,Mannburgh,DE,73616,727.85
+487,439,2025-11-19,Shipped,6771 Fritz Loop,Cisnerostown,DC,41585,940.9
+488,45,2025-09-24,Shipped,42022 Erin Forges Suite 998,North Rachelborough,VA,57873,2228.21
+489,72,2025-05-22,Delivered,7590 Thomas Mission,West Edwardport,KY,53402,47.22
+490,128,2025-01-24,Delivered,0923 Kimberly Keys Apt. 746,Ryanport,DC,49901,1415.39
+491,121,2025-10-20,Delivered,86372 Robinson Port,Jillfurt,MH,80761,2501.65
+492,155,2025-08-12,Shipped,9227 Bennett Greens Apt. 490,East Saraside,MD,00826,1552.8
+493,335,2025-02-16,Shipped,1344 Golden Locks Suite 228,New Aaron,NJ,99464,1139.64
+494,61,2025-03-12,Delivered,45461 Parks Highway,East Michael,DE,34673,2379.24
+495,208,2025-09-05,Cancelled,879 Lewis Dale Apt. 409,Justinmouth,NM,85780,172.17
+496,395,2025-05-27,Shipped,83085 Brian Stream Suite 314,New Christopher,CO,09010,1727.09
+497,482,2025-03-16,Delivered,7862 Sierra Bridge,Lindseyland,OH,60283,1319.1
+498,114,2025-01-15,Shipped,685 Turner Isle,Combschester,SD,72317,2347.23
+499,233,2025-08-19,Delivered,69331 Mcmahon Fall,North Richard,AR,24708,538.5
+500,360,2025-02-22,Shipped,86550 Sexton Dam,West Joyce,CT,38416,3788.26
+501,411,2025-10-11,Shipped,66701 Jones Island,North Cody,VI,53165,2532.8
+502,306,2025-05-22,Delivered,82222 Johnson Island,Port Tiffany,DC,24643,2251.74
+503,271,2025-08-24,Delivered,56201 Melissa Crescent,West Amanda,IL,29812,1711.79
+504,289,2025-07-20,Delivered,32528 Moses Crescent,East John,PA,33814,553.56
+505,281,2025-04-18,Delivered,452 Kevin Parkway Suite 449,Pattersontown,HI,35065,1062.54
+506,275,2025-07-23,Delivered,3420 Wright Terrace Suite 734,Gregoryfort,MP,30916,482.67
+507,438,2025-04-26,Delivered,52665 Hart Circles Suite 762,Kristinhaven,AR,81711,2346.12
+508,349,2025-11-29,Shipped,4147 Robinson Lodge Suite 247,Sandrafurt,NE,94830,1105.79
+509,461,2025-04-11,Delivered,3896 Kathleen Trafficway,Julieberg,LA,27049,305.04
+510,29,2025-11-14,Delivered,9241 Wells Estate Suite 638,West Joseph,TN,38068,1894.21
+511,213,2025-05-17,Delivered,639 Robert Courts Suite 824,Lawrencebury,RI,80247,531.96
+512,287,2025-09-27,Shipped,1538 Craig Tunnel,Lake Steven,AK,32593,904.95
+513,12,2024-12-17,Delivered,72607 Kimberly Trail Apt. 148,Olsenside,MH,93769,1780.62
+514,2,2024-12-16,Delivered,4931 Tiffany Heights,Bowersshire,WI,39540,664.22
+515,24,2025-10-09,Delivered,2542 Paul Squares Suite 563,New Daniel,DC,98549,2795.3
+516,33,2025-12-05,Cancelled,36948 Victoria Creek Apt. 664,Davischester,NV,88612,1781.59
+517,36,2024-12-18,Delivered,833 Walker Creek Apt. 161,West Kristen,OK,04110,1102.84
+518,210,2025-01-22,Shipped,399 Simon Bypass Apt. 333,Teresaborough,NJ,87779,950.6
+519,374,2025-05-20,Delivered,348 Juan Views Suite 101,Snyderborough,AZ,10188,1233.51
+520,457,2025-03-16,Delivered,60499 Kelsey Causeway,Dianaburgh,MH,05567,95.4
+521,470,2025-02-05,Delivered,1680 Nancy Rapids Apt. 342,Port Kaylaview,NY,97850,1236.8
+522,350,2025-12-06,Delivered,8420 Luis Club Suite 079,South Maryshire,CT,27424,2205.27
+523,441,2025-12-01,Delivered,15711 Wilson Wells Apt. 194,East Kevinmouth,TN,01065,2153.23
+524,276,2025-02-09,Delivered,1128 Rosales Hills,Derrickfort,UT,10342,1196.26
+525,373,2025-10-05,Shipped,7857 Phillips Meadow,New Charles,OH,10946,1800.55
+526,153,2024-12-23,Shipped,9161 Jackson Row Apt. 154,North Jenniferland,PW,44477,2352.31
+527,273,2025-03-03,Shipped,69626 Richard Glen Suite 525,Port Diana,WA,41380,586.78
+528,178,2025-11-20,Delivered,25471 Silva Ranch,Abigailstad,NE,51675,2629.23
+529,480,2025-07-31,Delivered,993 Anthony Coves Suite 675,Clarkstad,WI,66674,258.44
+530,339,2025-04-03,Delivered,71726 Anderson Shoal,Richardtown,KS,50672,1444.75
+531,456,2025-11-13,Delivered,0014 Rodriguez Forges,Port Nicholaschester,VI,24098,1201.35
+532,35,2025-03-20,Delivered,871 Adam Route,Ortizton,TX,36145,821.76
+533,229,2025-10-17,Cancelled,2820 Russell Fields,North Michaelburgh,DC,30564,656.65
+534,126,2025-02-02,Delivered,28240 Ruiz Way,New James,PA,77971,95.34
+535,120,2025-07-28,Delivered,04108 Chavez Unions Apt. 351,East Michaeltown,GU,41712,1635.86
+536,443,2025-02-22,Delivered,2289 Sandra Avenue Suite 415,Hawkinston,PA,61365,2875.37
+537,149,2025-06-30,Shipped,28010 Garcia Heights,Johnland,RI,44137,1166.67
+538,164,2025-11-12,Delivered,144 Peters Union,Robertsberg,OH,05273,996.16
+539,345,2025-02-15,Delivered,889 Andrew Forges,Tylerside,SD,93610,79.5
+540,449,2024-12-18,Shipped,8912 Jeffrey Shore,Kingbury,GU,94937,685.62
+541,212,2025-05-14,Delivered,5855 Mueller Ramp,Heiditown,ND,36972,322.29
+542,286,2025-02-19,Cancelled,9690 Howard Drives,Smithland,VA,06854,386.76
+543,321,2025-05-08,Delivered,7337 Watson Cape Apt. 652,Perrybury,MT,87517,145.87
+544,25,2025-07-14,Shipped,9802 Robinson Brooks,Jamesfurt,RI,80950,1144.71
+545,403,2025-02-09,Delivered,4477 Marcus Wells Apt. 842,Lake Donald,KS,23321,1002.65
+546,214,2025-03-01,Delivered,004 Shawn Crossroad Suite 155,Port Raymond,CT,43443,1075.33
+547,193,2025-07-04,Shipped,7490 Thompson Parks Suite 024,West Shannon,IA,28405,163.5
+548,435,2025-03-05,Delivered,594 White Forges,West Danielleberg,NC,51209,884.85
+549,363,2025-03-06,Processing,0296 White Spurs,South Ericfort,LA,21075,2132.7
+550,288,2025-07-30,Shipped,04167 Rebecca Knolls,New Gregory,MO,50629,240.03
+551,69,2025-07-31,Delivered,0632 Walton Forge,Port Jerryburgh,NY,06419,315.05
+552,105,2025-04-05,Shipped,22061 Daniel Garden Apt. 359,South Cassandra,CO,79629,377.06
+553,434,2025-01-01,Delivered,02956 Nicholas Ferry,Nicholasview,UT,65018,1153.13
+554,371,2025-01-02,Delivered,9407 Jeremy Heights Suite 323,South Debramouth,NH,70555,979.62
+555,194,2025-10-03,Cancelled,5647 Massey Mills,Port Jodyport,WV,46735,286.08
+556,97,2025-02-23,Shipped,77666 Brown Fall,Wongchester,CA,16887,595.41
+557,246,2024-12-19,Shipped,157 Richard Cliffs,East Davidland,TX,15427,1380.69
+558,490,2025-05-09,Delivered,870 Soto Neck Suite 353,East James,NM,16636,2224.48
+559,98,2025-07-06,Shipped,212 Cardenas Path Suite 856,South Christopher,LA,20453,2557.73
+560,469,2025-08-01,Shipped,00037 Mejia Gardens Apt. 313,West Samuel,PA,86838,2942.61
+561,204,2025-08-09,Delivered,9327 Garcia Shoals Apt. 765,West Paulahaven,DC,05906,1635.67
+562,398,2025-01-14,Delivered,0652 Long Ferry,Wallacebury,VI,48840,369.07
+563,274,2025-01-02,Delivered,2455 Suzanne Gateway,Clementsstad,TX,51914,1017.54
+564,185,2025-04-09,Shipped,764 Dixon Radial Suite 224,Jeanville,AK,40717,149.89
+565,412,2025-05-15,Shipped,0692 Murphy Place,Micheleberg,GU,88603,637.38
+566,105,2024-12-30,Delivered,76729 Jodi Squares Apt. 979,West Gail,KY,18652,1865.4
+567,24,2025-01-06,Shipped,146 Santana Ferry,Port James,MH,65175,1581.3
+568,9,2025-06-06,Delivered,5797 Nathaniel Way,Helenton,NH,03676,1654.23
+569,300,2025-02-26,Shipped,982 Kelly Point,Port John,NV,85056,751.1
+570,101,2025-09-18,Delivered,094 Brown Locks,Rossmouth,AL,52330,2986.61
+571,292,2025-02-23,Delivered,328 Gonzalez Creek Apt. 220,Lake Ericaport,NY,35683,572.65
+572,336,2025-01-27,Delivered,8333 Sweeney Spring Suite 082,Jimenezland,UT,27612,3161.0
+573,421,2025-05-06,Shipped,4946 Andrew Land,Ramirezton,DE,25115,212.26
+574,252,2025-02-03,Delivered,519 Neil Views Apt. 115,Peterfort,MI,70047,1302.78
+575,408,2025-09-12,Delivered,038 Justin Route,North Juanview,IA,08873,2848.99
+576,369,2025-04-23,Delivered,8513 Lee Roads Apt. 483,Collinsmouth,MI,66782,1470.29
+577,470,2024-12-28,Cancelled,90168 James Mission,South Marymouth,OH,34876,2637.55
+578,269,2024-12-23,Shipped,027 Richard Rest,South Jacqueline,NE,12744,1592.81
+579,419,2025-01-19,Shipped,668 Rodriguez Port Suite 675,Lake James,MT,09108,730.46
+580,432,2025-06-12,Delivered,505 Nicholas Glens,Dawnland,OR,46084,1473.38
+581,78,2025-05-21,Delivered,2853 Crane Gateway Apt. 426,Hopkinsville,NH,92303,205.42
+582,234,2025-06-14,Delivered,015 Hickman Meadow Suite 930,North Edward,NY,45192,297.16
+583,327,2025-02-26,Shipped,2766 Jonathan Cliff,Lisaton,GA,42435,87.15
+584,9,2025-01-26,Delivered,6130 Meyers Avenue Suite 207,New Michelle,PR,22379,1194.3
+585,211,2025-06-14,Delivered,7118 Taylor Crossroad Suite 863,Port Carrietown,NV,11372,322.94
+586,370,2025-02-03,Delivered,24234 Burns Springs,West Joannefort,PR,91168,804.05
+587,147,2025-08-23,Delivered,1961 Rodriguez Lakes Suite 566,Russellton,PA,80376,1807.83
+588,358,2025-09-15,Delivered,334 Smith Ridges Suite 224,Lake Noah,VT,48280,771.79
+589,55,2025-02-23,Delivered,322 Bethany Trace Suite 390,Smithport,NJ,88550,1178.08
+590,124,2025-03-13,Shipped,15791 Rebecca Isle Apt. 101,Fletcherberg,MT,01669,1082.23
+591,182,2024-12-20,Shipped,65893 Kirk Junction,Boyerborough,IN,42266,1282.84
+592,492,2025-03-31,Delivered,7192 Justin Lodge,Hudsonview,MS,32281,3095.14
+593,125,2025-11-22,Delivered,643 Andrew Fords Apt. 726,Diazhaven,FL,41182,1060.28
+594,424,2025-05-10,Pending,9272 Smith Valleys Apt. 208,Beckland,ME,87865,1088.97
+595,389,2025-09-24,Delivered,51908 Ramirez View Apt. 716,Lake Brian,SD,91736,97.04
+596,195,2025-09-16,Delivered,56369 Lisa Corners,North Jennifershire,AR,69487,1783.8
+597,29,2025-10-23,Shipped,87810 Nash Place,East Alisonbury,MA,92122,3249.88
+598,433,2025-03-27,Shipped,8929 Christy Forks,West Jasminmouth,MT,56166,2314.85
+599,440,2025-01-12,Pending,6280 Donald Dam,Meyerstad,PR,75484,1826.98
+600,118,2025-04-05,Shipped,470 Pruitt Forges Apt. 105,Lake Kimberly,IA,01597,1031.23
+601,291,2025-11-08,Delivered,3979 Irwin Court Apt. 426,South Yolanda,VA,47159,2301.53
+602,474,2025-08-17,Shipped,167 Mendoza Way,New Tylerfurt,VI,16919,743.45
+603,279,2025-08-21,Shipped,3688 Johnson Stream,Kochburgh,NH,53128,271.01
+604,436,2025-02-13,Delivered,66678 Ashley Spurs,South Dawn,CO,52297,794.63
+605,107,2025-10-22,Delivered,28989 Steven Prairie Apt. 598,East Marcusfort,NJ,61430,2257.54
+606,421,2025-02-06,Shipped,9764 Ana Field Suite 805,North Samanthaport,DE,58279,2133.91
+607,289,2025-01-20,Delivered,7893 Stephanie Dam Suite 651,Millerville,MP,40919,428.01
+608,435,2025-07-01,Shipped,05009 Jose Ranch Apt. 878,Baileymouth,AR,82612,1657.82
+609,197,2025-03-09,Shipped,93011 Matthew Bridge,Lake Williamton,NM,36576,561.5
+610,41,2025-02-13,Shipped,9522 Jeremy Field,Jacobsville,SC,74005,1955.11
+611,51,2024-12-15,Delivered,00730 Lisa Turnpike Apt. 662,Jacquelineshire,NV,48143,2256.83
+612,39,2025-03-11,Shipped,405 Henson Spurs Apt. 446,Rachelfort,KS,07015,1043.24
+613,305,2025-09-14,Shipped,735 King Landing Apt. 451,Oscarchester,MH,72455,1234.1
+614,325,2025-07-05,Shipped,8348 Kristin Points Apt. 586,Port Robert,NM,28790,1163.75
+615,117,2025-05-26,Delivered,8532 Michelle Valleys Suite 758,Smithhaven,MH,80317,4570.81
+616,193,2025-03-31,Delivered,69834 Sanchez Stream,Sheamouth,VI,70699,543.0
+617,300,2024-12-21,Delivered,45050 Amanda Locks Suite 200,Gonzalezburgh,PW,99874,1225.18
+618,317,2025-07-31,Shipped,077 Robin Overpass,Port Teresa,MD,35843,346.26
+619,43,2025-08-12,Delivered,038 Bryan Dam Suite 851,Benjaminberg,UT,91884,3083.72
+620,365,2025-08-13,Shipped,5028 Larry Junctions,North Donald,NH,78701,1808.77
+621,55,2025-03-21,Delivered,79531 Daniel Garden,Barbaraview,VI,22372,2049.55
+622,158,2025-05-13,Delivered,74286 Escobar Valley Suite 108,Tylerhaven,ID,73115,1088.48
+623,139,2025-09-12,Delivered,4514 Davila Union Apt. 935,North Thomasport,MI,47356,1930.15
+624,96,2025-04-09,Delivered,706 Thomas Plains,South Stanleybury,NV,33292,1158.42
+625,285,2025-05-07,Delivered,15756 Kathleen Glens,East Karentown,NY,34257,1409.51
+626,14,2025-07-01,Delivered,762 Brianna Circle,Duncanland,PA,57056,239.58
+627,48,2025-03-12,Delivered,99516 Everett Inlet,Antoniomouth,VA,81181,325.34
+628,167,2025-10-24,Delivered,67312 Juan Forks,West Wayneland,TN,38741,2303.65
+629,212,2025-08-18,Shipped,25936 Diaz Walks,New Gregory,VA,31636,204.42
+630,287,2025-01-19,Delivered,2755 Gray Ferry,North Jenniferport,OR,03683,2697.31
+631,87,2025-09-25,Delivered,431 Deborah Gateway Suite 953,North Ginaburgh,TN,77211,1392.64
+632,138,2025-06-14,Delivered,15062 Stacy Mountain Apt. 651,Lewisburgh,NY,15121,1633.41
+633,75,2025-10-31,Delivered,91087 Lori Drives Apt. 198,South Ashley,CA,42740,1831.3
+634,142,2025-05-29,Delivered,767 Kendra Knolls,New Willie,NV,64375,133.2
+635,401,2024-12-09,Delivered,459 Nathaniel Flat Apt. 445,North Lisaburgh,AL,17662,2166.9
+636,484,2025-10-06,Shipped,838 Peters Bypass Apt. 450,New Leslie,MO,59822,3540.82
+637,316,2025-09-30,Delivered,30409 Joshua Spur Suite 541,East Kristina,ND,66690,1158.96
+638,70,2025-01-15,Delivered,38272 Brandon Terrace,Craigbury,KY,49691,1542.88
+639,203,2025-01-01,Shipped,422 Corey Plain,West Laura,HI,04633,450.3
+640,442,2025-10-04,Delivered,168 Jennifer Route,Walkertown,IA,70948,2706.24
+641,221,2025-07-16,Delivered,736 Steven Pass,Deborahchester,NJ,24642,1280.05
+642,165,2024-12-26,Shipped,52141 Tammy Branch,Wilsonbury,KY,73983,188.49
+643,161,2025-04-29,Processing,895 Henry Mount,New Nathanville,FM,77065,403.97
+644,150,2025-09-27,Shipped,445 Donovan Manor,Thomasfurt,MI,44859,1007.0
+645,167,2025-05-09,Delivered,276 Miller Mill,Navarroville,UT,99492,1153.45
+646,403,2025-08-28,Delivered,63956 Dennis Locks Suite 783,West Michaelborough,NH,13404,947.83
+647,478,2025-02-22,Delivered,402 Jeff Shoal Suite 614,Kristinfurt,HI,65281,2371.02
+648,280,2025-05-22,Shipped,304 Charles Mount,Maxwellport,HI,82579,814.52
+649,488,2025-08-26,Shipped,2483 Carolyn Place,Clarkchester,KS,63310,110.2
+650,409,2024-12-19,Shipped,5689 Watkins Orchard Apt. 368,North Anthony,ND,29322,2900.11
+651,435,2025-06-15,Shipped,3159 Julie Drive,Lake Dawnfort,AR,50741,425.28
+652,156,2025-04-16,Delivered,1040 Newton Spur,New Clinton,ND,59701,508.16
+653,79,2025-02-13,Shipped,247 April Brooks,New Dannyshire,WI,52992,1904.06
+654,307,2025-08-19,Delivered,5789 Wall Neck,Bonniemouth,RI,79179,648.92
+655,274,2024-12-31,Cancelled,21711 Payne Lodge Suite 658,New Christineville,MH,01734,1265.04
+656,215,2025-05-26,Delivered,3563 Victoria Flats,East Candacestad,MP,46690,88.07
+657,496,2025-06-01,Shipped,616 Lynch Forge,Sloanhaven,CA,12124,293.29
+658,305,2025-07-19,Delivered,999 Philip Expressway,North Kathryntown,NM,10575,1810.33
+659,128,2025-05-23,Delivered,3216 Leah Spurs Apt. 613,South Christinahaven,MA,35596,1583.16
+660,314,2025-07-21,Delivered,49037 Carolyn Summit,Nathanmouth,NY,29980,1682.8
+661,331,2025-04-20,Shipped,99812 Jefferson Street Apt. 922,Kimberlymouth,CT,57903,385.12
+662,408,2025-10-19,Delivered,92581 Collier Ways Suite 212,South Lisa,DE,91755,2398.35
+663,51,2025-07-07,Delivered,99454 Mallory Stream Suite 531,Peterton,PA,32267,1068.19
+664,383,2024-12-12,Delivered,685 Debra Meadow Suite 598,Taylorview,PW,96102,3388.78
+665,353,2024-12-21,Delivered,177 Mark Trace,South Richardland,CA,27527,587.7
+666,192,2025-03-02,Delivered,67072 Timothy Fork Suite 024,Lake George,GA,96835,1379.9
+667,348,2025-11-04,Shipped,98306 Jack Freeway Suite 540,New Coryport,LA,35687,365.75
+668,13,2025-02-12,Delivered,420 Heather Gardens Suite 094,Jenkinsland,DE,88097,624.4
+669,213,2025-09-20,Delivered,156 Smith Unions Suite 147,Jamesside,RI,93127,2087.69
+670,482,2025-01-03,Delivered,0542 Roberson Course,New Reginaburgh,MS,10474,1987.79
+671,176,2025-08-25,Shipped,35659 White Ports,North Cynthia,HI,32202,2052.6
+672,179,2025-06-13,Delivered,669 Greene Trail Apt. 953,New Patrick,OK,33275,248.93
+673,370,2025-01-14,Delivered,839 Mary Underpass,Port Laura,DC,37259,334.29
+674,154,2025-08-19,Shipped,0662 Joseph Field,Port Kevin,NC,71122,2359.43
+675,435,2025-07-31,Shipped,43751 Graham Ridge,Jessicahaven,NE,47945,616.24
+676,85,2025-10-20,Delivered,43826 Angela Junctions Apt. 743,Loritown,OK,46034,1263.76
+677,283,2025-02-10,Delivered,470 Ashley Valley Suite 453,Carolynfort,MO,43510,594.06
+678,219,2024-12-26,Delivered,1883 Benjamin Ramp Suite 428,Lewisview,LA,97438,1359.49
+679,208,2025-09-18,Delivered,686 Cole Plain Suite 706,South Isabellatown,VI,57285,48.32
+680,337,2025-07-23,Delivered,49711 Tabitha Forge,Lauramouth,CT,44635,564.36
+681,378,2025-05-10,Shipped,6650 Jones Stream Suite 016,Batesview,OK,95292,3066.14
+682,220,2025-08-31,Delivered,43596 Smith Harbors,Katherinetown,SD,44426,1281.8
+683,110,2025-10-08,Delivered,9375 Williams Views Suite 286,South Marieside,OR,22497,480.2
+684,361,2025-11-23,Delivered,1402 Brown Wall Apt. 857,Garnerfurt,VI,39934,1708.34
+685,410,2025-06-26,Delivered,638 Berry Trace,Villarrealton,TN,51011,287.37
+686,167,2025-02-23,Delivered,530 Andrew Common Apt. 789,Burkeland,AS,80506,671.69
+687,135,2025-08-17,Delivered,48527 Bell Lane,Williamsborough,MS,43433,1209.38
+688,328,2025-05-19,Delivered,36344 Lewis Ranch,Richardfurt,WA,97330,1473.7
+689,313,2025-09-14,Delivered,18123 Nathan Springs,Daviston,NV,29315,1824.16
+690,179,2025-10-30,Shipped,4457 Mercado Extensions,Zamorafurt,IA,51935,1927.38
+691,417,2025-05-30,Shipped,089 Cervantes Greens Suite 594,Debraport,MP,66356,2020.29
+692,345,2025-09-11,Delivered,95377 Humphrey Ways Apt. 376,Barnesfort,LA,03780,2922.81
+693,123,2025-03-21,Delivered,76751 Carlson Keys,West Christopher,MD,99379,1009.87
+694,192,2025-06-09,Delivered,309 Kristina Row,New Melissaton,WY,54114,156.9
+695,215,2025-05-02,Delivered,8234 Cooper Pine Suite 653,Stephanieborough,VI,89214,1216.06
+696,197,2025-01-28,Delivered,0004 Johnson Ports Apt. 103,Brendastad,GU,55736,564.15
+697,326,2025-01-08,Shipped,989 Bass Common,New Cristianmouth,NY,28686,311.9
+698,89,2025-09-25,Delivered,6614 Ruiz Manors Apt. 868,Caldwellview,VA,60998,828.64
+699,148,2025-09-19,Delivered,6829 Joy Station Apt. 565,Alvinland,KY,94653,1098.27
+700,432,2025-02-10,Delivered,302 Tyler Heights,West Joshuafort,TX,32216,1005.54
+701,488,2025-08-08,Delivered,21405 Javier Corners Suite 604,Parkerbury,IL,72821,2418.15
+702,100,2025-07-26,Shipped,7852 Gibson Way,Mariatown,ID,43402,554.76
+703,254,2025-08-01,Shipped,1023 Brewer Villages Suite 186,Collinsfort,NJ,40143,634.9
+704,431,2025-01-15,Delivered,35183 Donald Passage,Jameschester,WI,42218,487.91
+705,43,2025-07-04,Delivered,3988 Little Square,South Andreamouth,MA,82108,2025.55
+706,390,2025-10-18,Delivered,841 Teresa Plaza,Riverahaven,MP,14997,336.19
+707,141,2025-05-04,Delivered,9238 Sherri Court Apt. 489,New Patriciaton,VA,07773,1058.45
+708,87,2025-02-23,Delivered,6342 Larry Estate,Lake Charlenestad,OK,61228,1394.76
+709,396,2025-09-24,Delivered,91218 Moore Fields,Christopherland,LA,95361,2122.6
+710,58,2025-05-13,Delivered,31555 Melinda Circles,Jeffreyborough,AR,40780,204.31
+711,397,2025-04-03,Shipped,7811 Christina Streets,Wardside,ME,87486,763.14
+712,422,2025-10-03,Shipped,7663 Nguyen Hollow Apt. 829,East Richardview,MA,20515,3631.47
+713,112,2024-12-30,Delivered,1910 Bonilla Square Suite 691,North Paulahaven,SC,17856,2930.41
+714,425,2025-02-09,Delivered,16826 Edwin Corner Suite 562,Houstonshire,WI,50499,1610.13
+715,17,2025-02-03,Delivered,347 Julie Branch,Ashleyberg,TN,83619,425.84
+716,442,2025-08-11,Delivered,2287 Jade Estate Apt. 007,Angelicafort,WA,17385,3031.91
+717,61,2025-03-17,Delivered,712 Davis Isle,Lake Lisa,MA,89222,1561.99
+718,378,2025-06-25,Cancelled,286 Linda Cape,Andreaburgh,WY,24346,969.68
+719,313,2025-03-20,Delivered,5474 Blevins Locks,Bobbyshire,AK,34209,759.06
+720,72,2025-11-12,Processing,898 Graham Spurs,Jamesville,MH,51478,134.76
+721,292,2025-04-15,Delivered,2388 Schmidt Pass Suite 656,North Jamie,TN,07377,836.73
+722,306,2025-05-19,Delivered,90113 Smith Harbors,Rivasview,TN,99229,2080.17
+723,361,2025-05-31,Delivered,903 Jared Crossing,Melodyhaven,OR,42791,2936.69
+724,137,2025-09-18,Shipped,294 Jones Station,West Steveshire,VA,06763,1358.66
+725,49,2025-04-28,Shipped,7283 Andrade Street,Wellston,GU,74477,1216.36
+726,471,2025-04-16,Pending,67084 Briggs Pines,Davenportmouth,MS,90779,2018.45
+727,65,2025-08-22,Delivered,258 Monique Estate,Lake Amanda,AL,15021,1199.84
+728,365,2025-07-01,Shipped,35306 Simmons Stream,Erinchester,NM,54175,1877.06
+729,347,2025-08-14,Delivered,096 Nguyen Plaza Apt. 744,Mariahfort,MA,19710,1480.9
+730,296,2025-01-08,Shipped,3175 Sutton Station,Carolburgh,NY,92254,4036.91
+731,39,2025-08-07,Delivered,8741 Janice Highway Suite 267,Kathleenville,WY,81385,770.94
+732,384,2025-08-06,Shipped,4534 Kelly Island Apt. 564,New Richardhaven,PA,56438,746.5
+733,233,2025-03-11,Delivered,93582 Mary Locks,Port Benjamin,WV,97023,1517.91
+734,2,2025-04-15,Shipped,224 David Harbors Apt. 492,Jamesside,AR,74913,2242.27
+735,341,2025-08-10,Shipped,0180 Smith Ford Apt. 480,Port Melissabury,NV,98510,605.74
+736,204,2025-03-12,Processing,667 Sarah Islands Suite 460,Johnberg,MH,52005,2215.34
+737,254,2024-12-24,Delivered,4627 Brandon Isle Apt. 649,North Carolberg,VT,70062,1945.61
+738,146,2025-10-23,Delivered,7285 George Corner Suite 538,Port Andrew,NM,60006,90.4
+739,67,2025-04-20,Shipped,212 White Green Apt. 956,Davidsonview,LA,98593,1375.91
+740,458,2025-05-11,Delivered,8907 Miller Tunnel,New Williammouth,NJ,49606,2539.7
+741,321,2025-05-01,Delivered,94414 Matthew Spring,South Samanthaside,HI,68660,2428.16
+742,476,2025-09-29,Delivered,597 Gonzales Mews,Nicholasmouth,OR,05311,475.24
+743,1,2025-06-13,Delivered,5494 Danielle Inlet,Port Ryan,NJ,86647,1885.24
+744,353,2025-06-18,Shipped,6922 Maria Grove,South Richardbury,ME,15253,450.96
+745,448,2025-04-22,Delivered,9771 Elizabeth Creek,West Dawnmouth,NH,30479,2967.08
+746,185,2025-10-02,Delivered,431 Benson Orchard Apt. 255,Haydenmouth,MO,33866,104.98
+747,341,2025-01-18,Delivered,4741 Ferguson Wells,Taylormouth,FL,31668,446.26
+748,321,2025-11-08,Shipped,555 Mary Spring,Toddport,MP,64437,995.25
+749,220,2025-04-28,Shipped,660 Kristin Pines,Courtneyville,WI,25852,2336.37
+750,245,2025-05-17,Delivered,34704 Steven Glen,Romanmouth,SC,94390,3279.46
+751,116,2025-01-15,Shipped,797 Terri Crossing Suite 595,New Jenniferfort,LA,49372,1937.1
+752,357,2025-09-12,Shipped,17039 Garcia Club Suite 590,Port Danielton,MS,60795,552.08
+753,217,2025-07-19,Delivered,078 Haynes Fall Suite 516,North Kara,MN,76300,1764.73
+754,118,2025-10-19,Delivered,896 Morales Gateway,Whitneychester,NM,31978,1740.49
+755,413,2025-04-30,Delivered,896 Tracy Motorway Apt. 288,West Kimberly,IL,30710,1155.89
+756,189,2025-10-16,Delivered,39014 Brandon Mountain Suite 274,South Richard,TX,29994,2131.87
+757,397,2025-04-09,Shipped,967 Stephanie Grove Apt. 300,Nunezbury,AS,48238,2882.54
+758,36,2025-10-05,Delivered,8260 Terri Junctions Apt. 637,Jasmineland,FL,66899,1113.39
+759,313,2025-11-09,Delivered,9112 Summer Underpass Apt. 142,Michellefurt,CO,14683,298.12
+760,370,2025-07-24,Shipped,892 Patrick Way Suite 657,Crystalview,MS,49299,2352.23
+761,211,2025-09-06,Cancelled,55441 Abigail Union,Christopherfurt,PW,59502,2107.24
+762,45,2025-02-19,Delivered,520 Angela Rue,Lake Brittanymouth,MP,95171,3804.99
+763,64,2025-05-24,Shipped,84714 Lambert Expressway Apt. 148,East John,KY,08321,1237.97
+764,220,2025-11-23,Shipped,27283 Smith Alley,Johnsfurt,PW,38653,714.86
+765,331,2025-06-09,Delivered,90676 Teresa Freeway Suite 629,Aaronchester,SD,63779,204.43
+766,308,2025-09-02,Shipped,621 Thomas Haven,Hoffmanport,CT,66168,3306.83
+767,482,2025-05-09,Shipped,32645 Scott Meadow,Evansshire,RI,11421,512.31
+768,155,2025-05-13,Delivered,3906 Flynn Port,New Jenniferfort,SD,02528,2503.93
+769,261,2025-03-08,Shipped,51970 Andrea Street Suite 891,South Victoria,FL,76467,336.67
+770,28,2025-05-09,Delivered,74215 Carl Gateway Suite 252,Flynnberg,HI,15322,706.3
+771,58,2025-05-22,Delivered,875 Robertson Divide,East Kendra,MN,71966,1284.72
+772,305,2025-03-08,Delivered,91065 Allen Unions Suite 174,Samanthafurt,OK,29031,351.69
+773,7,2025-10-04,Shipped,02140 Edward Plains Apt. 319,Michaelshire,VT,63702,889.08
+774,441,2025-07-16,Delivered,59717 Miller Oval,East Antoniochester,NY,59732,2171.3
+775,280,2025-11-26,Processing,412 Kent Square,Smithland,MO,33710,25.4
+776,395,2025-07-07,Delivered,895 John Lights,Dariusside,NH,53416,237.69
+777,35,2025-06-04,Delivered,600 Ramirez Inlet Suite 973,Lake Kathrynbury,AZ,30339,2088.86
+778,21,2025-03-06,Shipped,9675 Kemp Greens,Darrentown,ME,71652,3056.23
+779,147,2025-03-28,Shipped,473 Amber Key,Smithmouth,PR,38447,1394.48
+780,206,2025-02-09,Shipped,79959 Lang Loop Apt. 110,Ashleyshire,NJ,51908,898.69
+781,79,2025-04-07,Delivered,4565 Hernandez Port Suite 226,West William,KY,89669,2180.34
+782,41,2024-12-18,Cancelled,098 Frye Light,Judithtown,MP,57369,423.75
+783,80,2025-05-05,Delivered,613 Sarah Tunnel,Johnsonmouth,FM,58265,681.72
+784,301,2025-11-19,Delivered,9570 Ashley Views Suite 263,Mcdonaldburgh,FM,98205,1431.74
+785,224,2025-10-18,Delivered,10735 David Ranch Suite 220,Fernandezburgh,LA,26940,1723.28
+786,45,2025-02-10,Delivered,30239 Johnny Light,Port Richardtown,MP,50026,3645.26
+787,314,2025-07-16,Delivered,306 Pena Field Suite 786,Kimberlyport,CO,18397,2036.95
+788,342,2025-06-23,Delivered,70064 Schmidt Views Suite 487,Johnville,OR,83305,1729.42
+789,363,2025-09-27,Shipped,2554 Alyssa Avenue,Johnmouth,MT,40174,325.82
+790,488,2025-01-29,Delivered,0786 Stephens Burgs Apt. 039,East David,FM,10352,748.14
+791,401,2025-11-30,Delivered,19586 Nielsen Ramp Apt. 879,Moorehaven,NM,27106,394.72
+792,65,2025-10-25,Shipped,2495 Thompson Viaduct,South Ruthshire,MO,41095,2152.35
+793,461,2025-04-04,Delivered,0332 Thomas Brook,Christianton,HI,69585,154.08
+794,220,2025-06-16,Delivered,1202 Jessica Shoal Apt. 175,Michaelview,CA,52713,241.53
+795,135,2025-03-25,Shipped,210 Sullivan Curve Suite 501,Georgeshire,NV,33644,1348.48
+796,262,2025-03-26,Delivered,36078 Carter Plains,East Alexander,MN,67044,1146.08
+797,440,2025-06-18,Delivered,83680 Williams Corners,Matthewberg,IN,18140,978.24
+798,81,2025-05-13,Shipped,48581 Smith Lakes Apt. 196,Lynchfort,TN,17833,1157.91
+799,346,2024-12-19,Delivered,1920 Melinda Drives,Davidbury,VT,20082,1593.66
+800,261,2025-07-16,Delivered,49379 Wagner Ramp Apt. 585,Lisaland,NE,28158,3586.63
+801,442,2025-10-16,Delivered,49207 Rivas Mount Suite 142,Annamouth,GU,31725,186.04
+802,242,2025-07-23,Delivered,62591 Heather Fall Suite 977,Port Sandra,NE,93336,717.25
+803,77,2025-10-11,Processing,2443 Gonzalez Junctions Suite 978,Martinfurt,MN,62963,88.34
+804,284,2025-01-20,Delivered,4380 Christina Ports Apt. 348,Lake Kennethport,NJ,76677,191.2
+805,128,2025-11-09,Shipped,00940 Robert Knoll Suite 376,West Natasha,MO,50563,2128.7
+806,423,2025-09-04,Delivered,54920 Robert Rapid,North Caitlin,CO,94588,319.42
+807,62,2025-03-23,Shipped,52731 Karen Ferry,South Lance,CA,34399,2170.4
+808,115,2025-06-17,Cancelled,9001 Martinez Ridge Apt. 359,Shaneport,GA,21199,270.48
+809,36,2025-07-20,Shipped,596 Buck Orchard,Roblesland,MI,33163,493.2
+810,160,2025-11-09,Delivered,26247 Richard Branch,Lake Jamesshire,AK,75821,601.08
+811,234,2024-12-23,Delivered,4761 Turner Mission,Wrightmouth,MD,34554,1781.6
+812,150,2025-08-21,Shipped,423 Richard Park,Lake Janice,AR,96800,1226.16
+813,125,2025-05-26,Delivered,4939 Kevin Fort Suite 904,Melissashire,VI,24516,1633.24
+814,498,2025-10-12,Shipped,87835 Gonzalez Views Apt. 330,Hallmouth,IA,82954,3214.25
+815,376,2025-11-22,Shipped,23641 Elijah Trace,Mahoneytown,SC,75219,1921.73
+816,4,2025-07-06,Delivered,72033 Williams Cliffs Suite 023,West Cody,AK,64395,476.72
+817,278,2025-09-10,Shipped,5587 Linda Grove,West Edwinport,MA,52047,2697.13
+818,5,2025-04-06,Delivered,99255 David Fort,South Kelliland,OR,12445,1394.89
+819,337,2025-11-01,Shipped,505 Jessica Inlet,Sarahland,RI,93948,1297.36
+820,54,2025-11-13,Delivered,57557 Patricia Lock Suite 328,West Robert,AK,56938,138.03
+821,122,2025-01-24,Delivered,18563 Anderson Well Apt. 761,Bobberg,AR,41709,1541.11
+822,31,2025-08-01,Shipped,569 Murray Club Suite 336,New Bobbyshire,AZ,14827,964.12
+823,472,2024-12-26,Shipped,6103 Todd Passage,New Brittneyton,KY,51715,262.31
+824,359,2025-08-20,Delivered,3881 Rasmussen Mountains,Christopherstad,MT,78604,244.89
+825,383,2024-12-26,Delivered,096 Holder Trace Apt. 672,North Timothyberg,VT,64500,699.2
+826,259,2025-02-07,Shipped,814 Moore Fields,Clarkchester,LA,02826,415.74
+827,304,2025-06-08,Delivered,083 Kayla Rapids,Farleyhaven,WV,78936,3989.64
+828,340,2025-07-23,Delivered,45498 Robert Common Suite 674,South Nicholashaven,VA,55270,1590.61
+829,134,2025-06-01,Shipped,85711 Torres Meadows Apt. 595,Clarkport,IA,98869,1454.81
+830,426,2025-01-12,Delivered,739 Allen Bypass,West Allison,MI,56668,1089.72
+831,140,2025-04-16,Delivered,77730 Cory Park,Rodriguezburgh,MP,54985,337.3
+832,104,2025-01-19,Shipped,8720 Douglas Shores Apt. 254,Manuelton,MA,39270,1777.73
+833,80,2025-07-26,Delivered,099 Ashley Park,Welchbury,NC,67347,1121.9
+834,239,2025-06-12,Delivered,6163 James Underpass,Johnbury,WI,88483,1138.0
+835,275,2025-01-01,Shipped,91435 Christina River,North Travis,VT,36936,1145.14
+836,158,2025-01-19,Delivered,965 Gutierrez Loaf Apt. 897,West Cory,PA,49992,564.14
+837,62,2025-02-07,Delivered,2756 Adam Crossroad,North David,MH,38114,2623.92
+838,352,2024-12-24,Shipped,7712 Miller Land Apt. 418,Port Michelle,FM,02070,270.16
+839,21,2025-04-18,Shipped,6608 Melissa Forge,South Alison,LA,36599,1323.98
+840,47,2025-06-15,Shipped,863 Miller Dam,Myersmouth,MP,72807,1078.31
+841,26,2025-10-19,Delivered,4202 Lauren Green Apt. 488,Leeland,IA,60989,2327.25
+842,90,2025-03-10,Pending,45031 Robin Bypass Apt. 669,West Kristinbury,TN,75703,846.36
+843,285,2025-05-16,Delivered,1047 Morgan Port,Port Curtisshire,AS,81193,1088.17
+844,237,2025-01-26,Shipped,9247 Castro Skyway Apt. 410,West Christian,CO,26453,1418.89
+845,7,2025-09-28,Pending,118 Larry Junctions,Lake Janeburgh,MD,83886,2071.77
+846,67,2025-01-22,Shipped,044 Johnson Lake Suite 094,Port Yvonnefurt,NH,13619,1725.17
+847,323,2025-04-02,Delivered,310 Dan Valleys Suite 645,Martinezberg,NH,43508,541.74
+848,133,2025-08-22,Delivered,407 Johnson Forest Suite 449,Smithbury,IA,80252,1421.88
+849,34,2025-01-19,Shipped,9412 Richmond Cliffs,Port Paulbury,GA,56419,528.49
+850,66,2025-09-29,Pending,3180 Burns Locks Apt. 101,New Carriemouth,LA,53847,2822.0
+851,170,2025-10-10,Delivered,53606 Smith Harbors,Robertshaven,MO,61302,1736.01
+852,237,2025-07-29,Delivered,698 Hicks Path Apt. 703,Mortontown,AR,60269,612.7
+853,294,2025-10-14,Shipped,17737 Andrews Inlet Apt. 307,North Sarahland,NV,14475,2101.98
+854,16,2025-07-19,Shipped,04902 Joseph Hill Apt. 559,Westbury,IN,31079,830.01
+855,110,2025-08-24,Delivered,965 Bentley Forks Apt. 703,West John,AL,99739,408.37
+856,229,2024-12-30,Delivered,992 Sims Keys Apt. 619,Hollandmouth,IA,14101,1303.04
+857,318,2025-06-03,Delivered,462 Hunter Stravenue,East Laura,AS,73921,653.01
+858,152,2025-10-24,Delivered,653 Michelle Shoals Suite 871,Jacquelinebury,KY,76064,2405.55
+859,282,2025-02-24,Delivered,9670 Smith Lakes,South Moniquemouth,NH,80130,1963.99
+860,144,2025-01-26,Delivered,162 Johnson Square,West Karen,MO,40118,2055.48
+861,103,2025-05-13,Delivered,897 Craig Hill,Michaeltown,PR,30749,776.15
+862,411,2025-07-29,Cancelled,2718 Sanders Summit,West Marco,PA,85494,2544.88
+863,401,2024-12-30,Delivered,92600 Elizabeth Tunnel Apt. 015,Jonesland,PR,77233,658.45
+864,401,2025-06-05,Delivered,449 Donald Corners,North Brandon,WA,73382,2033.71
+865,290,2025-06-25,Delivered,384 Collier Road,Port Erinside,PR,53569,1839.83
+866,139,2025-06-12,Delivered,31044 Troy Mountain,Lake Victoria,PR,48054,1729.55
+867,306,2025-04-11,Delivered,92218 Natasha Brooks Suite 318,Shortville,NJ,50885,911.73
+868,416,2025-01-02,Delivered,23641 Lawson Manors,West Robin,RI,77971,278.08
+869,242,2025-01-03,Delivered,6403 Jeremiah Ports Apt. 932,Donaldside,FL,83740,1449.61
+870,300,2025-10-17,Shipped,1269 Steven Green Suite 225,New Robert,KS,34335,1193.12
+871,337,2025-04-05,Delivered,68681 Charles Tunnel Apt. 306,Andrewhaven,AK,42506,2370.66
+872,418,2025-07-15,Pending,1555 Kelli Loaf Apt. 787,East Sandrashire,CT,90691,403.83
+873,295,2025-02-06,Delivered,463 Jackson Loop,Lake Tammy,MO,95508,2343.28
+874,430,2024-12-17,Delivered,35841 Gregory Island,Dianeshire,OK,64687,915.67
+875,304,2025-06-08,Shipped,793 Davila Walk,Kathrynland,OK,84845,2126.76
+876,468,2025-10-21,Delivered,7411 Timothy Forge,Richmondmouth,AL,29129,1550.1
+877,359,2025-09-10,Shipped,56761 Ethan Point Suite 233,Port Alexiston,MN,52657,586.25
+878,289,2025-03-15,Processing,829 Courtney Route,New Steven,PW,22951,2462.5
+879,497,2025-10-15,Delivered,78831 Dana Forks,Jarvisport,ND,46236,1843.97
+880,90,2025-02-05,Delivered,72019 Kirk Plaza,Devinfort,KS,88767,1998.2
+881,29,2025-01-04,Shipped,279 Gill Fords Suite 512,Michaelland,TX,93480,1590.39
+882,245,2024-12-16,Delivered,1081 Barker Trafficway,Jenniferberg,NE,23165,2119.08
+883,315,2025-02-27,Shipped,36072 John Camp,Lake Destiny,IN,00870,612.12
+884,91,2025-09-08,Delivered,424 Wendy Isle,New Danny,NE,75621,666.48
+885,76,2025-02-01,Shipped,166 David Ville,Salazarside,NJ,95775,225.83
+886,57,2025-08-28,Cancelled,33045 Browning Circles Apt. 616,Bakermouth,AL,04515,436.5
+887,192,2025-09-01,Delivered,5801 Daniel Court Suite 642,Greerburgh,NC,00971,2746.12
+888,173,2025-07-24,Delivered,1150 Meyers Shoal,Gilbertchester,CT,96289,360.06
+889,500,2025-09-14,Shipped,52552 Heather Dale,West Wesleyside,ID,60273,1423.0
+890,328,2025-08-17,Shipped,435 Singh Squares Suite 762,Julieborough,PA,48228,812.21
+891,496,2024-12-27,Cancelled,15255 Davenport Mountain,Padillaside,ND,23722,953.91
+892,403,2025-05-14,Delivered,17489 Tara Brooks,Rebekahstad,AS,70447,1665.26
+893,302,2025-11-19,Delivered,971 Jones Vista,Margaretberg,HI,80343,1215.63
+894,376,2025-11-20,Delivered,5459 Brandon Street,Annamouth,MD,58817,2720.07
+895,374,2025-06-19,Pending,37983 Jeanne Trace,Taylorberg,NV,33283,581.96
+896,201,2025-04-14,Delivered,60895 Buck Camp,West Donnaburgh,HI,15742,1850.9
+897,309,2025-10-06,Shipped,68960 Rose Flat,Stephenland,DC,88531,979.67
+898,114,2025-06-24,Delivered,74611 Jessica Ports,Rayberg,NH,14280,1220.42
+899,255,2025-08-11,Delivered,603 Abigail Oval Suite 285,Huntville,ND,34344,528.26
+900,40,2025-10-06,Delivered,763 Jennifer Port,Lake Adambury,NM,77490,823.62
+901,164,2025-03-29,Processing,5744 Rodriguez Cape Suite 692,Taylormouth,LA,86247,2775.62
+902,421,2025-03-09,Delivered,5916 Sharon Street Suite 359,New Zachary,SC,83971,1018.96
+903,136,2025-09-10,Delivered,9965 Cole Throughway,Lake Tyler,MT,87794,1136.48
+904,35,2025-10-14,Delivered,7843 Byrd Overpass,North Wendy,SD,88309,1129.18
+905,56,2025-01-16,Delivered,6135 Dawn Alley Suite 883,Silvaberg,ID,26370,3167.11
+906,225,2025-09-12,Delivered,0336 Anderson Plaza Suite 023,Port Yvonneberg,GU,90072,1245.89
+907,253,2025-10-16,Delivered,3273 Benson Station Suite 149,Mooreton,ID,18805,2698.68
+908,193,2025-01-27,Shipped,7714 Sparks Isle,New Johnstad,MD,48754,1790.48
+909,296,2025-04-21,Delivered,20061 King Fields Suite 445,Laurenfurt,DE,21487,1061.45
+910,38,2025-01-19,Delivered,912 Rhodes Throughway,Port Roberttown,NV,96831,755.08
+911,164,2025-05-15,Shipped,22830 Hughes Haven,Grantstad,IA,88476,1101.86
+912,88,2024-12-10,Delivered,5559 Williams Lodge Apt. 560,Jimenezside,PA,88602,2838.82
+913,39,2025-04-09,Cancelled,27639 Jose View,Johnsonhaven,HI,91501,851.08
+914,174,2025-09-23,Cancelled,9626 Isaiah Spur,East Bryan,NV,49590,1904.89
+915,361,2025-04-18,Delivered,1790 Schneider Mountain,Lake Carlosmouth,TX,14632,2667.6
+916,335,2025-02-14,Shipped,39344 Stephen Rapid,Shannonville,MS,24398,2086.37
+917,28,2025-09-17,Delivered,333 Joy Estate,Loganberg,DE,00821,694.77
+918,499,2025-11-04,Delivered,07122 Williams Centers Apt. 283,Wallaceview,HI,60011,2171.94
+919,284,2025-10-07,Delivered,4985 Moss Plain,Mccormickside,FL,08645,1344.66
+920,145,2025-05-13,Delivered,28012 Cherry Plaza,West Jonathanchester,MN,66465,847.35
+921,26,2025-07-22,Delivered,47609 Cardenas View Apt. 647,Lake Courtney,PW,45411,1349.81
+922,431,2025-02-15,Delivered,3787 Harrison Plaza Suite 070,Robertfort,NH,60551,1535.07
+923,185,2025-10-06,Delivered,1298 Ashley Drives,Erichaven,AR,78978,1220.45
+924,151,2025-01-30,Delivered,1641 Johnson Junctions,Port Travis,SD,68127,2886.29
+925,50,2025-12-09,Delivered,56688 Laura Club Suite 647,Cynthiaberg,NH,76867,3379.85
+926,327,2025-06-30,Shipped,24285 Tonya Spring,Christopherfurt,WY,02861,2618.76
+927,60,2025-01-10,Shipped,848 Alexa Alley,South Aaronhaven,WI,95388,458.72
+928,459,2025-09-01,Delivered,1520 Mcdonald Cove Apt. 740,Jeremychester,OH,76389,1142.43
+929,279,2025-05-02,Delivered,672 Gutierrez Skyway Apt. 511,Port Ashleytown,AR,89143,1499.59
+930,454,2025-06-09,Delivered,78502 Nathan Drive,Elizabethshire,NJ,21927,2979.08
+931,229,2025-09-01,Delivered,920 Alexander Spring,New Rachel,NJ,48273,593.12
+932,239,2025-11-25,Delivered,7539 Morris Way Suite 442,Edwardview,TN,85494,779.44
+933,138,2025-02-11,Delivered,1641 Osborne Forest,Carterstad,CO,25097,258.78
+934,386,2025-03-11,Delivered,376 Figueroa Trail Suite 681,Wangtown,MP,69994,1462.75
+935,177,2025-04-12,Delivered,1749 Lauren Pike Suite 968,West Joshuaton,NY,08144,1010.26
+936,388,2025-03-01,Delivered,624 Emily Mills Suite 450,Clarkview,MN,32415,1410.7
+937,32,2025-04-11,Shipped,9111 Heather Centers,Laurenland,ND,33306,63.83
+938,275,2025-05-17,Delivered,985 Lori Club Apt. 596,New Elizabethton,GU,86887,1376.26
+939,121,2025-06-03,Delivered,480 Nicole Drive,Bakerstad,RI,65426,950.68
+940,203,2025-08-23,Delivered,55482 Morse Plaza,Lake Chelsealand,PR,99944,1345.74
+941,462,2025-10-17,Shipped,4984 Torres Avenue Suite 293,Mullenfort,VA,72281,2986.45
+942,318,2025-11-30,Delivered,721 Jordan Mount Apt. 758,Port Josephberg,RI,24215,672.23
+943,388,2025-05-22,Delivered,9889 Lawrence Plains Suite 754,Markview,FM,59734,1241.12
+944,86,2025-09-29,Shipped,34019 Jennifer Prairie Apt. 605,Whitemouth,MA,87465,1631.25
+945,217,2025-01-02,Shipped,6389 Daniel Ville,Mckenziehaven,LA,39115,3602.56
+946,422,2025-06-12,Shipped,5611 Ortiz Unions,Taylorberg,UT,31957,1300.57
+947,467,2025-11-11,Delivered,0659 Stone Way,Tammyville,MS,05104,3030.8
+948,285,2025-01-28,Delivered,4330 Mary Spring,Port Nicole,SD,94279,2036.22
+949,439,2025-09-26,Delivered,86244 Brennan Knoll Suite 311,Lake Charles,ND,92058,454.47
+950,470,2024-12-14,Shipped,287 Rebecca Mall Apt. 545,Williamfurt,IN,46853,1385.53
+951,268,2025-05-26,Delivered,418 Frederick Walk Apt. 521,Lake Alexandra,ND,50469,1712.1
+952,77,2025-05-26,Delivered,9469 Thompson Parkway,Lake Mary,LA,59353,1879.38
+953,299,2025-11-17,Shipped,2031 Mary Expressway,Davisburgh,IL,98253,1086.13
+954,52,2025-02-08,Shipped,66864 Kristin Well,Gardnerberg,NE,71486,1647.07
+955,450,2025-09-07,Delivered,72876 Jennifer Drive Apt. 877,Port Joseph,CO,97937,408.78
+956,336,2024-12-11,Delivered,83345 Castillo Junctions Suite 232,Porterton,AR,33883,661.71
+957,243,2025-04-16,Delivered,8597 Bruce Crossroad,Walkerberg,GA,72689,3061.84
+958,207,2025-04-21,Shipped,42402 Peterson Highway Suite 893,Staffordmouth,SD,05570,1466.3
+959,206,2025-04-01,Delivered,67881 Kramer Manor,Ricardomouth,IN,69660,2708.58
+960,451,2025-05-09,Shipped,9044 Reese Meadows Suite 332,New Melanie,UT,21870,3610.38
+961,244,2025-03-29,Shipped,8770 Donna Manors Apt. 394,Brandishire,TX,37076,1136.41
+962,419,2025-02-09,Delivered,0760 Clark Corner Apt. 033,Lake Davidhaven,NM,12443,417.73
+963,432,2025-11-10,Shipped,83356 Luke Plaza Apt. 080,West Loriborough,NH,37227,704.32
+964,498,2025-10-30,Delivered,6702 Henry Pass,Jonesmouth,MS,48449,46.55
+965,499,2025-08-02,Shipped,957 Gomez Park Suite 959,Theresatown,MH,45406,1951.01
+966,374,2025-04-13,Shipped,629 Scott Hills,Nancyport,MH,10240,1790.49
+967,227,2025-07-14,Shipped,525 Jocelyn Shore,Douglaston,NH,88153,1481.61
+968,249,2025-10-05,Cancelled,65119 Christopher Village,Travisport,MD,20022,2395.29
+969,264,2025-01-01,Delivered,27694 Harris Passage,West Stephanie,ID,96023,813.58
+970,364,2025-04-28,Delivered,12440 Brandi Trail,Halltown,OK,33336,914.22
+971,400,2025-01-13,Shipped,180 Higgins Shoals,West Timothy,MD,76915,936.02
+972,99,2025-07-17,Shipped,047 Davis Union,East Mark,MT,01570,2276.44
+973,234,2025-01-11,Shipped,34348 Kennedy Flats,New Katie,RI,57177,2682.38
+974,141,2025-09-03,Shipped,6861 Tristan Highway,North Kayla,FL,03898,2090.92
+975,326,2025-10-05,Shipped,138 Victoria Canyon,West Brittanyport,OH,05005,898.1
+976,251,2025-02-10,Delivered,881 Byrd Hollow,Ericville,GU,75510,3277.95
+977,492,2025-01-19,Delivered,213 Manuel Points,North Scott,FL,31106,293.2
+978,180,2025-09-30,Delivered,670 Dickson Station Apt. 710,Lake Amy,OK,12591,185.37
+979,458,2025-08-06,Shipped,740 Li Burgs,East Jenniferburgh,AK,33139,1361.62
+980,146,2025-03-24,Delivered,560 Jones Path Suite 650,Chavezberg,MI,93232,2277.85
+981,84,2025-11-07,Shipped,31631 Johnson Flat Suite 811,West Kayleemouth,PR,04561,2550.09
+982,114,2025-02-19,Shipped,06670 Michael Rest Suite 696,Parksbury,VI,94310,2938.71
+983,210,2025-01-31,Delivered,70071 Mills Branch,New Tylerland,KY,86479,2564.81
+984,400,2024-12-27,Delivered,32343 Lauren Lodge Suite 874,Nicoleside,UT,69462,883.21
+985,68,2025-07-11,Shipped,237 Greene Avenue,Lopezhaven,PR,43102,718.65
+986,130,2025-11-28,Shipped,585 Kelly Ways,East Christineville,MH,76012,1772.24
+987,496,2025-05-21,Delivered,48236 Daniels Ford,Gonzalezshire,MP,83719,2593.67
+988,193,2025-02-21,Delivered,80043 Scott Lakes,Robertview,NC,56957,798.48
+989,112,2025-09-21,Delivered,416 Travis Corners Apt. 063,South Masonburgh,OK,58469,2895.15
+990,267,2025-06-13,Delivered,14584 William Creek Suite 415,Thompsonville,VT,41343,2492.91
+991,53,2025-09-11,Delivered,611 Ryan Crest,West Paultown,VI,26485,904.82
+992,340,2025-11-14,Delivered,18926 Kirsten Junctions Suite 465,Gregoryfurt,NY,32849,2010.97
+993,305,2025-05-05,Delivered,77140 Kelly Union Suite 545,Emilychester,AK,01663,105.84
+994,351,2025-03-08,Delivered,19622 Rowe Forges,Marshfort,PW,35504,1221.88
+995,173,2025-09-01,Shipped,173 Yates Fort,Dominiqueton,OR,43078,1046.72
+996,134,2025-10-30,Delivered,93409 Richard Lake Apt. 811,South Linda,WY,34530,1063.9
+997,265,2025-11-06,Processing,48484 Monica Mountains,Johnsonchester,HI,64334,2601.08
+998,411,2025-12-04,Delivered,951 Shepherd Ranch Suite 449,Pattersonmouth,LA,18613,1162.64
+999,164,2025-10-29,Shipped,756 Thomas Extension,North Danielland,SD,59067,2234.22
+1000,152,2025-02-26,Shipped,7945 Jim Spring Apt. 638,Port Francis,KY,96482,1415.38
